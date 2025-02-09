@@ -1,0 +1,600 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Oracle_1_files/filelist.xml">
+<title>TUTORIAL 1 Introduction ORACLE 8i SQL Data Definition &amp; Data
+Manipulation</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:438650282;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2087435444 134916128 1362795408 1485219418 860017734 -80202676 -1464183822 -227273406 -795425574 -2042493148;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:492993103;
+	mso-list-type:hybrid;
+	mso-list-template-ids:305062318 2005180314 1196357000 785006942 113417466 -1786715086 -731900970 1967710218 1692670258 -342072724;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:499124093;
+	mso-list-type:hybrid;
+	mso-list-template-ids:308543586 -428570834 -2069076880 -1333886398 -1247396570 1723397938 -1070716874 562989992 1261582170 -64869604;}
+@list l2:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:780758088;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1588280586 67698703 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l3:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:842816663;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-774079702 1496088776 -519304250 -308093568 -130379646 1484976910 -394875644 496934816 1586127680 722266454;}
+@list l4:level1
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:925066716;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-739858682 185502500 2025216240 -2030158820 -1871290092 -927320438 -1155513364 666140780 878507756 1028548398;}
+@list l5:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:1143276561;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1117417440 -2140086896 1472485544 -1353255570 1046798856 28616294 34625438 -1137929328 1688876396 -96855568;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l7
+	{mso-list-id:1460033497;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-800969864 -313097812 583973004 1667530696 -1283011210 -819798452 -1962088880 1290318054 297579448 586827666;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<meta name=Template content="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+  <p class=MsoTitle>TUTORIAL 1 INTRODUCTION TO ORACLE 12c</p>
+
+<p class=MsoNormal align=center style='text-align:center'>IS 443/543 Database
+Design &amp; Implementation</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+  <p class=MsoNormal>Oracle is one of the most widely used database management 
+    system in the world. It is an Object-Relational DBMS and runs on virtually 
+    every kind of computer, from laptops, PCs, to minicomputers and giant 
+    mainframes. It is designed to meet the requirements of the network computing 
+    and to provide reliable and secure data management for applications ranging 
+    from small departmental applications to high-volume on-line transaction systems 
+    or query-intensive data warehouse applications.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>Oracle Database 12c, released in 2013, was designed for the Cloud, featuring a new Multitenant architecture, In-Memory column store, and support for JSON documents. Oracle 12c allows  an enterprise to have one super database (=container; CDB) and one or many sub databases (= pluggable DBs; PDB). </p>
+
+<p align=center style='text-align:center'><b>PROCEDURE TO ACCESS ORACLE 12c
+    <o:p></o:p></b></p>
+
+  <p class=MsoNormal>Access Oracle via SQL Developer: SQL Developer is a free client software that must be installed on a local machine. Labs/classrooms that have SQL Developer installed are CH14A, CH491, CH 494, and CH 455. Students are strongly encouraged to download and install the software on their own laptop.</p>
+  <p class=MsoNormal>When you are in any of the above labs or classrooms, click on the following menu-options to start SQL Developer: Start/Programs/Oracle for Dr Chen or simply type SQL Developer in the search textbox. If you are a stuent in Dr. Chen's database class, contact him for your Oracle account name and password.</p>
+  <p class=MsoNormal>&nbsp;</p>
+<p class=MsoNormal>Access Oracle 12c via SQL Plus: SQL Plus is a command user interface program. It must be installed on a local machine. A networking configuration file must be setup properly in order to establish a connection.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>Once logged in the Oracle server, you can change your password using the following command:</p>
+
+<p class=MsoNormal>ALTER USER your-user-name IDENTIFIED BY newpassword;</p>
+
+<p class=MsoNormal>Always type semicolon &quot;;&quot; to end a query. In SQL Plus, press enter key to
+execute a command or query. In SQL Developer, Ctrl + Enter to execute current command or query.</p>
+
+<p align=center style='text-align:center'><b>SQL Data Definition &amp; Data
+  Manipulation<o:p></o:p></b></p>
+
+<p>SQL Plus is a very powerful language that performs various tasks ranging
+from defining database structure to ad hoc queries. We will use an exercise to
+demonstrate how to create a Oracle database structure, populate a table, and
+alter table structure. The situation we wish to represent here is that of
+students enrolled in courses. For each student we need to store student number,
+name, street address, city, and enrolment date. A course code, course name, and
+the teacher's name describe each course.</p>
+
+<p><b>Relational Schema<o:p></o:p></b></p>
+
+<p class=MsoNormal>COURSE(Cou_code,Cou_Name,Cou_Teacher)</p>
+
+<p class=MsoNormal>STUDENT(Stu_No,Stu_LName, Stu_Fname, Stu_Street, Stu_City,
+Stu_Enroll_Date, Stu_GPA)</p>
+
+<p class=MsoNormal>ENROLLMENT(Cou_Code, Stu_No, Grade)</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>1. Use the Create Table statement to define the table
+structures.</p>
+
+<p class=MsoNormal>CREATE TABLE Student(</p>
+
+<p class=MsoNormal>Stu_Code Number(3) CONSTRAINT Student_Code_pk PRIMARY KEY,</p>
+
+<p class=MsoNormal>Stu_Lname Varchar2(15),</p>
+
+<p class=MsoNormal>Stu_Fname Varchar2(15),</p>
+
+<p class=MsoNormal>Stu_Address Varchar2(15),</p>
+
+<p class=MsoNormal>Stu_City Varchar2(15),</p>
+
+<p class=MsoNormal>Stu_Enroll_date DATE,</p>
+
+<p class=MsoNormal>Stu_GPA Number(3,2) CONSTRAINT Student_GPA_cc CHECK (Stu_GPA
+&lt;= 4.0 </p>
+
+<p class=MsoNormal>AND Stu_GPA &gt;= 0) );</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>CREATE TABLE Course(</p>
+
+<p class=MsoNormal>Cou_Code Varchar2(8) CONSTRAINT Course_Code_pk PRIMARY KEY,</p>
+
+<p class=MsoNormal>Cou_name Varchar2(15),</p>
+
+<p class=MsoNormal>Cou_Prof Varchar2(10));</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>CREATE TABLE Enrollment(</p>
+
+<p class=MsoNormal>Stu_Code Number CONSTRAINT Enroll_StuCode_fk References
+Student(Stu_Code),</p>
+
+<p class=MsoNormal>Cou_Code Varchar2(8) CONSTRAINT Enroll_CouCode_fk References
+</p>
+
+<p class=MsoNormal>Course(Cou_Code),</p>
+
+<p class=MsoNormal>Enroll_Grade Char(1) CONSTRAINT Enroll_grade_cc CHECK
+(Enroll_Grade </p>
+
+<p class=MsoNormal>IN('A','B','C','D','F') ), </p>
+
+<p class=MsoNormal>CONSTRAINT Enroll_pk PRIMARY KEY (Stu_Code, Cou_Code) ); </p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>2. Modifying a table definition i.e. adding or deleting a
+column or a relationship is easy using Oracle SQL. </p>
+
+<p>· Use ALTER TABLE .... ADD to add a new field to the table. You specify the
+field name, data type, and size. For example, the following statement adds a
+25-character Text field called Notes to the Employees table:</p>
+
+<p>ALTER TABLE Employees ADD (Notes Varchar2(25));</p>
+
+<p>· Use DROP CONSTRAINT to delete a foreign key constraint. You specify the
+constraint name following the CONSTRAINT reserved word.</p>
+
+<p class=MsoNormal>ALTER TABLE Enroll </p>
+
+<p class=MsoNormal>DROP CONSTRAINT Enroll_CouCode_fk;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>· Use ADD CONSTRAINT to add a foreign key constraint.</p>
+
+<p class=MsoNormal>ALTER TABLE Enroll</p>
+
+<p class=MsoNormal>ADD CONSTRAINT Enroll_CouCode_fk FOREIGN KEY(Cou_Code)
+REFERENCES </p>
+
+<p class=MsoNormal>Course(Cou_Code);</p>
+
+<p class=MsoNormal>· Use ALTER TABLE ... MODIFY to change data type and size of
+a column.</p>
+
+<p class=MsoNormal>ALTER TABLE Student</p>
+
+<p class=MsoNormal>MODIFY (Stu_Lname VarChar(30));</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>3. Use the Insert command to add data to the defined tables.
+</p>
+
+<p class=MsoNormal>INSERT INTO COURSE</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>VALUES
+('IS365', 'Computer Systems', 'Giles');</p>
+
+<p class=MsoNormal>- Check to see if it was inserted:</p>
+
+<p class=MsoNormal>SELECT * FROM Course;</p>
+
+<p class=MsoNormal>This insertion is not committed. It can be rolled back. Try the
+following:</p>
+
+<p class=MsoNormal>Rollback;</p>
+
+<p class=MsoNormal>SELECT * FROM Course;</p>
+
+<p class=MsoNormal>To make the insertion permanent, type </p>
+
+<p class=MsoNormal>COMMIT;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>4. Once data are in the tables they may be altered using the
+UPDATE statement. For example to change the teacher for IS443 from JChen to
+Randy</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>UPDATE
+Course</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>SET
+Cou_Prof = 'Randy'</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>WHERE
+Cou_Code = 'IS443' ;</p>
+
+<p class=MsoNormal>i) change the course name of IS 250 to &quot;Introduction
+to Computer Programming&quot;</p>
+
+<p class=MsoNormal>ii) change the city of students who live in St Cloud to
+Winona.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>5. Data may also be deleted from tables when it is no longer
+needed. This may be done one row at a time or for an entire table. For example
+to delete student Smith from the STUDENT table</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>DELETE FROM
+Student WHERE Stu_Lname = 'Smith' ;</p>
+
+<p class=MsoNormal>Note i) All Smith's would be deleted.</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes">         </span>ii) This may
+cause referential integrity problems if Smith was actually enrolled in any subject.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>6. Finally, a table may be deleted from a database.</p>
+
+<p class=MsoNormal>The following example deletes the Student table from the
+database:</p>
+
+<p class=MsoNormal>DROP TABLE Student;</p>
+
+<p class=MsoNormal>The next example deletes the index MyIndex from the
+Employees table:</p>
+
+<p class=MsoNormal>DROP INDEX MyIndex;</p>
+
+<p class=MsoNormal>Note: An index file can be created using: CREATE INDEX
+Myindex ON TABLE Student(Stu_Lname);</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>7. Data Control Language</p>
+
+<p class=MsoNormal>To grant Select privilege on table Student to user JSmith, </p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>GRANT
+SELECT ON Student to JSmith;</p>
+
+<p class=MsoNormal>To revoke SELECT privilege on table Student from JSmith,</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>REVOKE
+SELECT ON Student FROM JSmith;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>To grant update privilege on table Student to everyone,</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>GRANT
+UPDATE ON Student to PUBLIC;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>To grant all privileges on Course table to Ted and Nancy;</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>GRANT ALL
+PRIVILEGES ON Course to Ted, Nancy;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>To find out to whom I have granted privileges,</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>SELECT *
+FROM USER_TAB_PRIVS;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>8. Writing script file. A script file is a text file that
+contains SQL commands or queries. Instead of executing one query at a time, you
+could create a script file to execute several queries at the same time. An
+example follows.</p>
+
+<p class=MsoNormal><span style="mso-spacerun: yes"> </span></p>
+
+<p class=MsoNormal>----------- Script file for Oracle tutorial 1</p>
+
+<p class=MsoNormal>------------- Jim Chen</p>
+
+<p class=MsoNormal>------------- IS443/543</p>
+
+<p class=MsoNormal>-- Create course table</p>
+
+<p class=MsoNormal>CREATE TABLE Course(</p>
+
+<p class=MsoNormal>Cou_ID Char(8) CONSTRAINT Course_ID_Pk PRIMARY KEY,</p>
+
+<p class=MsoNormal>Cou_Name varchar2(20),</p>
+
+<p class=MsoNormal>Cou_Prof varchar2(20) CONSTRAINT Course_Teacher_NN NOT
+NULL);</p>
+
+<p class=MsoNormal>--- Create student table</p>
+
+<p class=MsoNormal>CREATE TABLE Student(</p>
+
+<p class=MsoNormal>Stu_No Number(3) CONSTRAINT Stu_ID_Pk PRIMARY KEY,</p>
+
+<p class=MsoNormal>Stu_LName Varchar2(20),</p>
+
+<p class=MsoNormal>Stu_Fname Varchar2(20),</p>
+
+<p class=MsoNormal>Stu_Street Varchar2(20),</p>
+
+<p class=MsoNormal>Stu_City Varchar2(10),</p>
+
+<p class=MsoNormal>Stu_Enroll_Date Date,</p>
+
+<p class=MsoNormal>Stu_GPA Number(3,2));</p>
+
+<p class=MsoNormal>--- Create enrollment table</p>
+
+<p class=MsoNormal>CREATE TABLE Enroll(</p>
+
+<p class=MsoNormal>Stu_No Number(3) CONSTRAINT Enroll_StuNO_Fk REFERENCES
+Student(Stu_NO),</p>
+
+<p class=MsoNormal>Cou_ID Char(8) CONSTRAINT Enroll_CouID_Fk REFERENCES
+Course(Cou_ID),</p>
+
+<p class=MsoNormal>Enr_Grade Char CONSTRAINT Enroll_Grade_C1 CHECK
+(Enr_Grade=upper(Enr_Grade)),</p>
+
+<p class=MsoNormal>CONSTRAINT Enroll_Grade_C2 CHECK (Enr_Grade IN
+('A','B','C','D','F')),</p>
+
+<p class=MsoNormal>CONSTRAINT Enroll_Pk PRIMARY KEY(Cou_ID, Stu_NO));</p>
+
+<p class=MsoNormal>--- inserting records into Student</p>
+
+<p class=MsoNormal>INSERT INTO Student values</p>
+
+<p class=MsoNormal>(111, 'Zhang','Jenny','4567 A Street','St.
+Cloud',To_Date('02/23/2000', 'mm/dd/yyyy'),3.56);</p>
+
+<p class=MsoNormal>-- more insert statements here</p>
+
+<p class=MsoNormal>--- inserting records into Course</p>
+
+<p class=MsoNormal>INSERT INTO Course Values</p>
+
+<p class=MsoNormal>('IS 250', 'Application Dev. I', 'AChou');</p>
+
+<p class=MsoNormal>-- more insert statements here</p>
+
+<p class=MsoNormal>--- inserting records into Enroll</p>
+
+<p class=MsoNormal>INSERT INTO Enroll Values</p>
+
+<p class=MsoNormal>(111, 'IS 250','A');</p>
+
+<p class=MsoNormal>--Make the changes permanent in the database</p>
+
+<p class=MsoNormal>COMMIT;</p>
+
+<p class=MsoNormal>--- end of the script file</p>
+
+<p class=MsoNormal>Script file can be created using any text editor. Once
+created, you may run it using the following command at SQL prompt:</p>
+
+  <p class=MsoNormal>SQL&gt; @x:\Script.sql<span style='mso-tab-count:1'>    </span> 
+  </p>
+
+  <p class=MsoNormal>Assume Script.sql is the text file name, saved on your SCSU 
+    network drive X.</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<h1>Commonly Used SQL Commands</h1>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p>
+</p>
+
+<p class=MsoNormal>1. List All the Tables You Own</p>
+
+<p class=MsoNormal>SQL&gt; SELECT * From Tab;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>2. Show a Table Structure</p>
+
+<p class=MsoNormal>SQL&gt;DESCRIBE TableName;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>3. Show records in a Table</p>
+
+<p class=MsoNormal>SQL&gt;Select * FROM TableName;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>4. If the output from above query is difficult to read due
+to line wrapping, reset the columns width:</p>
+
+<p class=MsoNormal>SQL&gt;COL ColumnName FORMAT A10; -- when ColumnName is
+character type</p>
+
+<p class=MsoNormal><span style='mso-tab-count:1'>            </span>-- the new
+column width is 10</p>
+
+<p class=MsoNormal>SQL&gt;COL ColumnSalary FORMAT 99999.999; --- when
+ColumnSalary is numeric</p>
+
+<p class=MsoNormal>[To clear all column formatting, execute CLEAR COLUMNS.]</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>5. To capture screen to a file:</p>
+
+  <p class=MsoNormal>SQL&gt;Spool X:\myhistory; ---- myhistory.lst will be created.</p>
+
+<p class=MsoNormal>[to turn off spool, SQL&gt; spool off; ] </p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>6. To rename a table:</p>
+
+<p class=MsoNormal>SQL&gt;Rename oldname To newname; </p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal>7.. To see to whom you have granted privileges:</p>
+
+<p class=MsoNormal>SQL&gt;SELECT * FROM User_Tab_Privs;&nbsp;</p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+  <p class=MsoNormal>Last updated 8/22/2013.</p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,2859 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="MSIA643sylFall20_online_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Chen, Jim Q</o:Author>
+  <o:LastAuthor>Chen, Jim Q.</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>9</o:TotalTime>
+  <o:Created>2021-08-05T18:42:00Z</o:Created>
+  <o:LastSaved>2021-08-05T18:42:00Z</o:LastSaved>
+  <o:Pages>14</o:Pages>
+  <o:Words>4675</o:Words>
+  <o:Characters>26652</o:Characters>
+  <o:Company>St. Cloud State University</o:Company>
+  <o:Lines>222</o:Lines>
+  <o:Paragraphs>62</o:Paragraphs>
+  <o:CharactersWithSpaces>31265</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="MSIA643sylFall20_online_files/themedata.thmx">
+<link rel=colorSchemeMapping
+href="MSIA643sylFall20_online_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:DengXian;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\7B49\7EBF;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536869121 64767 1 0 415 0;}
+@font-face
+	{font-family:"\@DengXian";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610612033 953122042 22 0 262159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	font-family:Consolas;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Plain Text";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:DengXian;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 75.1pt 1.0in 75.05pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;html <span
+class=SpellE>xmlns<span class=GramE>:v</span></span>=&quot;<span class=SpellE>urn:schemas-microsoft-com:vml</span>&quot;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=SpellE><span class=GramE><span
+style='font-family:"Courier New"'>xmlns:</span></span><span style='font-family:
+"Courier New"'>o</span></span><span style='font-family:"Courier New"'>=&quot;<span
+class=SpellE>urn:schemas-microsoft-com:office:office</span>&quot;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=SpellE><span class=GramE><span
+style='font-family:"Courier New"'>xmlns:</span></span><span style='font-family:
+"Courier New"'>w</span></span><span style='font-family:"Courier New"'>=&quot;<span
+class=SpellE>urn:schemas-microsoft-com:office:word</span>&quot;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=SpellE><span style='font-family:"Courier New"'>xmlns</span></span><span
+style='font-family:"Courier New"'>=&quot;http://www.w3.org/TR/REC-html40&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>head</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>meta</span> http-<span class=SpellE>equiv</span>=Content-Type
+content=&quot;text/html; charset=windows-1252&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>meta</span> name=<span class=SpellE>ProgId</span> content=<span
+class=SpellE>Word.Document</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>meta</span> name=Generator content=&quot;Microsoft Word 9&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>meta</span> name=Originator content=&quot;Microsoft Word
+9&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;link <span
+class=SpellE>rel</span>=File-List <span class=SpellE>href</span>=&quot;./bcis443sylFall_files/filelist.xml&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;link <span
+class=SpellE>rel</span>=Edit-Time-Data <span class=SpellE>href</span>=&quot;./bcis443sylFall_files/<span
+class=SpellE>editdata.mso</span>&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;!--[<span
+class=GramE>if !</span><span class=SpellE>mso</span>]&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>style</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>v\:* {<span
+class=SpellE>behavior<span class=GramE>:url</span></span>(#<span class=SpellE>default#VML</span>);}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>o\:* {<span
+class=SpellE>behavior<span class=GramE>:url</span></span>(#<span class=SpellE>default#VML</span>);}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>w\:* {<span
+class=SpellE>behavior<span class=GramE>:url</span></span>(#<span class=SpellE>default#VML</span>);}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>.shape {<span
+class=SpellE>behavior<span class=GramE>:url</span></span>(#<span class=SpellE>default#VML</span>);}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/style&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=GramE><span style='font-family:"Courier New"'>&lt;![</span></span><span
+class=SpellE><span style='font-family:"Courier New"'>endif</span></span><span
+style='font-family:"Courier New"'>]--&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>title&gt;</span>MSIA643sylFall&lt;/title&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>style</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;!--<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> </span>/* Style Definitions */<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=SpellE><span style='font-family:"Courier New"'>p.MsoNormal</span></span><span
+style='font-family:"Courier New"'>, <span class=SpellE>li.MsoNormal</span>, <span
+class=SpellE>div.MsoNormal</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=SpellE><span class=GramE>mso</span></span><span
+class=GramE>-style-parent</span>:&quot;&quot;;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>margin:</span>0in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>margin-bottom</span>:.0001pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso-pagination:</span>widow-orphan</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>font-size:</span>12.0pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>font-family</span>:&quot;Times</span>
+New Roman&quot;;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso</span></span><span
+class=GramE>-<span class=SpellE>fareast</span>-<span class=SpellE>font-family</span></span><span
+class=SpellE>:&quot;Times</span> New Roman&quot;;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=SpellE><span style='font-family:"Courier New"'>p.MsoFootnoteText</span></span><span
+style='font-family:"Courier New"'>, <span class=SpellE>li.MsoFootnoteText</span>,
+<span class=SpellE>div.MsoFootnoteText</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=GramE>margin:</span>0in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>margin-bottom</span>:.0001pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso-pagination:</span>widow-orphan</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>font-size:</span>10.0pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>font-family</span>:&quot;Times</span>
+New Roman&quot;;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso</span></span><span
+class=GramE>-<span class=SpellE>fareast</span>-<span class=SpellE>font-family</span></span><span
+class=SpellE>:&quot;Times</span> New Roman&quot;;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=SpellE><span style='font-family:"Courier New"'>span.MsoFootnoteReference</span></span><span
+style='font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=SpellE><span class=GramE>vertical-</span>align:super</span>;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=GramE><span style='font-family:"Courier New"'>a:</span></span><span
+style='font-family:"Courier New"'>link, <span class=SpellE>span.MsoHyperlink</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=SpellE><span class=GramE>color:</span>blue</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>text-decoration:</span>underline</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>text-underline:</span>single</span>;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=GramE><span style='font-family:"Courier New"'>a:</span></span><span
+style='font-family:"Courier New"'>visited, <span class=SpellE>span.MsoHyperlinkFollowed</span><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=SpellE><span class=GramE>color:</span>purple</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>text-decoration:</span>underline</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>text-underline:</span>single</span>;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=GramE><span style='font-family:"Courier New"'>p</span></span><span
+style='font-family:"Courier New"'><o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=GramE>margin-right:</span>0in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso-margin-top-alt:</span>auto</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso-margin-bottom-alt:</span>auto</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>margin-left:</span>0in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso-pagination:</span>widow-orphan</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>font-size:</span>12.0pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>font-family</span>:&quot;Times</span>
+New Roman&quot;;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=SpellE><span class=GramE>mso</span></span><span
+class=GramE>-<span class=SpellE>fareast</span>-<span class=SpellE>font-family</span></span><span
+class=SpellE>:&quot;Times</span> New Roman&quot;;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>@page Section1<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=GramE>size:</span>8.5in
+11.0in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>margin:</span>1.0in
+1.25in 1.0in 1.25in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>mso-header-margin</span>:.5in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>mso-footer-margin</span>:.5in;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span><span class=GramE>mso-paper-source:</span>0;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>div.Section1<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-tab-count:1'>      </span>{<span class=GramE>page:</span>Section1;}<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>--&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/style&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;!--[if <span
+class=SpellE>gte</span> <span class=SpellE>mso</span> 9]&gt;&lt;xml&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> </span>&lt;<span class=SpellE>o<span class=GramE>:shapedefaults</span></span>
+v:ext=&quot;edit&quot; <span class=SpellE>spidmax</span>=&quot;1027&quot;/&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/xml&gt;&lt;<span
+class=GramE>![</span><span class=SpellE>endif</span>]--&gt;&lt;!--[if <span
+class=SpellE>gte</span> <span class=SpellE>mso</span> 9]&gt;&lt;xml&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> </span>&lt;<span class=SpellE>o<span class=GramE>:shapelayout</span></span>
+v:ext=&quot;edit&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;<span class=SpellE>o<span class=GramE>:idmap</span></span>
+v:ext=&quot;edit&quot; data=&quot;1&quot;/&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> </span>&lt;/<span class=SpellE>o<span class=GramE>:shapelayout</span></span>&gt;&lt;/xml&gt;&lt;![<span
+class=SpellE>endif</span>]--&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;<span
+class=GramE>meta</span> name=Template<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=GramE><span style='font-family:"Courier New"'>content</span></span><span
+style='font-family:"Courier New"'>=&quot;C:\Program Files\Microsoft
+Office\Templates\Web Pages\Web Page <span class=SpellE>Wizard.wiz</span>&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/head&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;body <span
+class=SpellE>bgcolor</span>=white background=&quot;images/bg380.gif&quot; <span
+class=SpellE><span class=GramE>lang</span></span><span class=GramE>=</span>EN-US<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=GramE><span style='font-family:"Courier New"'>link=</span></span><span
+style='font-family:"Courier New"'>blue <span class=SpellE>vlink</span>=purple
+style='tab-interval:.5in'&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;div
+class=Section1&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p align=center style='<span class=SpellE>text-align<span
+class=GramE>:center</span></span><span class=GramE>'</span>&gt;&lt;b&gt;&lt;span
+style='font-size:13.5pt; <span class=SpellE>font-family:Arial;color:blue</span>'&gt;&lt;<span
+class=SpellE>img</span> <span class=SpellE>src</span>=&quot;images/scsulogo.jpg&quot;
+alt=&quot;SCSU Logo&quot; width=&quot;91&quot; height=&quot;66&quot;
+align=&quot;left&quot;&gt;St. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Cloud State University - <span
+class=SpellE>Herberger</span> Business School&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Information Systems Department&lt;<span
+class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>IA&lt;/span&gt;&lt;span style='font-size<span
+class=GramE>:13.5pt</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span class=SpellE><span class=GramE><span
+style='font-family:"Courier New"'>font-family:</span></span><span
+style='font-family:"Courier New"'>Arial;color:blue</span></span><span
+style='font-family:"Courier New"'>'&gt; 643 Database Security &amp;amp;
+Auditing &lt;<span class=SpellE>o:p</span>&gt;&lt;/<span class=SpellE>o:p</span>&gt;&lt;<span
+class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Fall 2021&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span
+style='mso-spacerun:yes'>  </span>&lt;/span&gt;&lt;/b&gt;Hybrid, Wednesdays
+5:30pm to 8:20pm, &lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;<span class=SpellE>hr</span> size=2
+width=&quot;100%&quot; align=center&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;div class=<span class=SpellE>MsoNormal</span>
+align=center style='<span class=SpellE>text-align<span class=GramE>:center</span></span><span
+class=GramE>'</span>&gt; &lt;b&gt;&lt;span style='<span class=SpellE>font-family:Arial</span>'&gt;INSTRUCTOR'S
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>INFORMATION&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/span&gt;&lt;/b&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;table width=&quot;93%&quot;
+border=&quot;3&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>td</span>&gt;&lt;div
+align=&quot;center&quot;&gt;&lt;font
+size=&quot;3&quot;&gt;&lt;strong&gt;Professor&lt;/strong&gt;: Dr. Jim Q.
+Chen&lt;/font&gt;&lt;/div&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>td</span>&gt;&lt;div
+align=&quot;center&quot;&gt;&lt;font
+size=&quot;3&quot;&gt;&lt;strong&gt;Office&lt;/strong&gt;: CH
+367F&lt;/font&gt;&lt;/div&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>td</span>&gt;&lt;div
+align=&quot;center&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;strong&gt;Office
+Tel:&lt;/strong&gt; (320) 308 4882&lt;/font&gt;&lt;/div&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;/<span class=SpellE><span
+class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>td</span>&gt;&lt;div
+align=&quot;center&quot;&gt;&lt;a <span class=SpellE>href</span>=&quot;https://www.stcloudstate.edu/its/services/academic/&quot;&gt;D2L
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>            </span><span class=SpellE>Brightspace</span>&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>td</span>&gt;&lt;div
+align=&quot;center&quot;&gt;&lt;a <span class=SpellE>href</span>=&quot;mailto:JChen@StCloudState.edu&quot;&gt;&lt;span
+style='font-family:<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> 
+</span>Arial'&gt;Jchen@StCloudState.edu&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>td</span>&gt;&lt;div
+align=&quot;center&quot;&gt;&lt;a
+href=&quot;Web.stcloudstate.edu/qjchen&quot;&gt;Web.stcloudstate.edu/qjchen&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;/<span class=SpellE><span
+class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;td <span class=SpellE>colspan</span>=&quot;3&quot;&gt;&lt;div
+align=&quot;center&quot;&gt;&lt;strong&gt;Zoom Office Hours&lt;/strong&gt;:
+Wednesdays 12:00noon to 2:00pm CT USA or by request; &lt;strong&gt;Zoom
+ID&lt;/strong&gt;: https://minnstate.zoom.us/j/9511044838
+&lt;/div&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;/<span class=SpellE><span
+class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/table&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt; &lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;&lt;<span class=SpellE>o:p</span>&gt;&lt;/<span
+class=SpellE>o:p</span>&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;div class=<span
+class=SpellE>MsoNormal</span> align=center style='<span class=SpellE>text-align<span
+class=GramE>:center</span></span><span class=GramE>'</span>&gt;&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;1. &lt;<span class=GramE>strong</span>&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/strong&gt;:
+&lt;/span&gt;&lt;/b&gt;This course is <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>about</span> database
+security and auditing. The course consists of three blocks: <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>database</span> security
+fundamentals, article readings, <span class=SpellE>secuirty</span> and auditing
+implementation <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>in</span> Oracle.
+Students will be exposed to both discretionary and mandatory <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>security</span> models.
+The course will focus on user administration, discretionary <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>access</span> control,
+authentication methods, design principles for security, virtual private
+database, and various auditing models. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Other topics covered include application
+security models, SQL injection, statistical database, data encryption. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Students will learn how to implement
+database security on modern <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>business</span> databases
+using practical scenarios and step-by-step examples.&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;2. &lt;<span class=GramE>strong</span>&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/strong&gt;:
+&lt;/span&gt;&lt;/b&gt;Upon successfully completing this course, the students
+will have a solid understanding of database security and auditing models and
+techniques. Be able to implement database application security and auditing
+models<span class=GramE>.&lt;</span><span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>br</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;strong&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt;3.&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt; Learning
+Outcomes&lt;/span&gt;&lt;/b&gt;: &lt;/strong&gt;Be able to describe the
+security challenges and threats in database systems; Be able to demonstrate
+knowledge<span style='mso-spacerun:yes'>  </span>of the basic information
+security architecture, database security models, and<span
+style='mso-spacerun:yes'>  </span>database auditing principles and methods; Be
+able to apply database access control<span style='mso-spacerun:yes'> 
+</span>methods; Be able to implement database security in<span
+style='mso-spacerun:yes'>  </span>business database applications; Be able to
+configure and conduct database auditing.&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;p&gt;&lt;strong&gt;4.
+&lt;b&gt;&lt;span style=&quot;<span class=SpellE>font-family<span class=GramE>:Arial</span></span>&quot;&gt;Required
+Textbook&lt;/span&gt;&lt;/b&gt;, &lt;b&gt;&lt;span style=&quot;<span
+class=SpellE>font-family:Arial</span>&quot;&gt;Articles and
+Handouts&lt;/span&gt;&lt;/b&gt;: &lt;/strong&gt; Sam <span class=SpellE>Afyouni</span>,
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Database Security and Auditing: Protecting
+Data Integrity and Accessibility. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>Course Technology Incorporated, 2006, ISBN
+0-619-21559-3. The articles and handouts are on the course D2L website<span
+class=GramE>.&lt;</span>/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;5. &lt;<span class=GramE>strong</span>&gt;&lt;b&gt;Course
+Requirements&lt;/b&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/b&gt;<span
+style='mso-spacerun:yes'>  </span>&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;table
+width=&quot;75%&quot; height=&quot;179&quot; border=&quot;4&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>Quizzes&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td</span>&gt;&lt;span
+style=&quot;font-family: Arial&quot;&gt;&lt;font
+size=&quot;3&quot;&gt;1&lt;/font&gt;&lt;/span&gt;0%&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td</span>&gt;&lt;font
+size=&quot;3&quot;&gt;Individual Projects&lt;/font&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>20%&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>Group Projects&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>30%&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>Article
+Review (AR)&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>20%&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>Mid-term
+Exam&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>10%&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>tr</span></span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td</span>&gt;&lt;font
+size=&quot;3&quot;&gt; Final Exam &lt;/font&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>td&gt;</span>10%&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;/table&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;&lt;<span class=SpellE>o:p</span>&gt;&lt;/<span
+class=SpellE>o:p</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;/span&gt;&lt;/b&gt;&lt;b&gt;Individual
+and Group Projects: &lt;/b&gt;<span class=GramE>You</span> <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>will</span> complete four
+to six projects, of which some are individual projects.<span
+style='mso-spacerun:yes'>  </span>No late project/program is accepted unless
+you can <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>provide</span> official
+document of the extreme situation that prevented you from <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>completing</span> your
+project on time. No excuse is accepted after the project deadline<span
+class=GramE>.&lt;</span>/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p&gt;&lt;b&gt;Article Reviews (AR): You
+will read six assigned articles. &lt;/b&gt;Out of the six,<span
+style='mso-spacerun:yes'>  </span>you<span style='mso-spacerun:yes'> 
+</span>will choose three of them to write a 2 to 3<span
+style='mso-spacerun:yes'>  </span>page long summary and review per each
+article.&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Your Article Review should include a
+summary of the article's core contents, arguments, conclusions AND your critical
+review after your own research on the topic. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>For example, new developments (technologies,
+theories) on the topic can be included in your critical review<span
+class=GramE>.&lt;</span>/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> 
+</span>&lt;p&gt;&lt;strong&gt;Quizzes&lt;/strong&gt;&lt;span style='<span
+class=SpellE>font-weight<span class=GramE>:normal</span></span><span
+class=GramE>'</span>&gt;: <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>Quizzes are <span class=GramE>of<span
+style='mso-spacerun:yes'>  </span>code</span> writing or short answer type.
+They cover assigned materials and reading <span class=SpellE>articless</span><span
+class=GramE>.&lt;</span><span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/span&gt;&lt;span style='<span
+class=SpellE>font-weight<span class=GramE>:normal</span></span><span
+class=GramE>'</span>&gt;&lt;<span class=SpellE>o:p</span>&gt;&lt;/<span
+class=SpellE>o:p</span>&gt;&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=GramE>strong&gt;</span>Exams&lt;/strong&gt;:
+The<span style='mso-spacerun:yes'>  </span>exam questions
+are&lt;/span&gt;&lt;span style='<span class=SpellE>font-weight:normal</span>'&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>o:</span>p</span>&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>of</span> short answer
+type and problem solving, which&lt;/<span class=SpellE>o:p</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/span<span class=GramE>&gt;<span
+style='mso-spacerun:yes'>  </span>cover</span> the lecture materials, projects,
+and&lt;strong&gt;, &lt;/strong&gt;articles.&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p&gt;&lt;b&gt;6. &lt;font
+face=&quot;Times New Roman, Times,
+serif&quot;&gt;&lt;strong&gt;&lt;b&gt;&lt;span style=&quot;font-family<span
+class=GramE>:Arial</span>&quot;&gt;Grade&lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;&lt;/font&gt;&lt;strong&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt; Appeals
+Policy&lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;&lt;font face=&quot;Times New
+Roman, Times, serif&quot;&gt;&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>Any student <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>wishing</span> to appeal
+a grade must submit a WRITTEN appeal within Two (2) days after the disputed
+assignment is officially returned to the
+students.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> 
+</span>&lt;p&gt;&lt;b&gt;&lt;strong&gt;&lt;b&gt;&lt;span style=&quot;<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span>&quot;&gt;7.
+Course Grades&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> 
+</span>&lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;&lt;/b&gt;<span class=GramE>Your</span>
+grade in this course will be determined by your<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>individual</span> and
+group performance. I typically use the following scale to assign<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>letter</span> grades:
+91-100% = A, 81-90% = B, 71-80% = C, 61-70% = D, &amp;<span class=SpellE>lt</span>;
+61% = F. I<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>reserve</span> the right
+to adjust this scale.&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;div class=<span
+class=SpellE>MsoNormal</span> align=center style='<span class=SpellE>text-align<span
+class=GramE>:center</span></span><span class=GramE>'</span>&gt;&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p class=<span class=SpellE>MsoNormal</span>&gt;&lt;b&gt;&lt;strong&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family<span class=GramE>:Arial</span></span>&quot;&gt;8.
+Academic Integrity&lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/b&gt;Cheating in any form will not be
+tolerated. Any student who cheats on <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>programming</span>
+projects or during an examination or assists another student in <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>cheating</span> will
+automatically fail the course. It is ok to discuss ideas and <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>problem</span> solving
+strategies with your classmates. It is unethical to copy program <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>design</span> or code
+from others. &lt;<span class=GramE>strong&gt;</span><span class=SpellE>Unusally</span>
+similar programs attract intense <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>scrutiny</span>.
+&lt;/strong&gt;Once a program comes under suspicion, the student will <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span><span class=GramE>be</span> monitored
+closely. All cases of cheating will be reported to the HBS Academic <span
+class=SpellE>Dishonoesty</span> Committee and the Dean of HBS<span class=GramE>.&lt;</span><span
+class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;div class=<span
+class=SpellE>MsoNormal</span> align=center style='<span class=SpellE>text-align<span
+class=GramE>:center</span></span><span class=GramE>'</span>&gt;&lt;<span
+class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;div
+align=&quot;left&quot;&gt;&lt;strong&gt;&lt;b&gt;&lt;span style=&quot;<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span>&quot;&gt;9.
+Tentative Course
+Schedule&lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;table width=666 height=&quot;1377&quot;
+border=1 align=&quot;center&quot; <span class=SpellE>cellpadding</span>=0 style='width<span
+class=GramE>:6.75in</span>;mso-cellspacing:<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> </span>1.5pt<span class=GramE>;border:outset</span>
+black .75pt;mso-padding-alt:6.0pt 6.0pt <span class=SpellE>6.0pt</span>
+6.0pt'&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:27.0pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;72&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:27.0pt'&gt; &lt;p align=center style='<span
+class=SpellE>text-align:center</span>'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Week</span>&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:27.0pt'&gt; &lt;p align=center style='<span
+class=SpellE>text-align:center</span>'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Dates</span>&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:27.0pt'&gt; &lt;p align=center style='<span
+class=SpellE>text-align:center</span>'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Topics</span>&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:27.0pt'&gt; &lt;p align=center style='<span
+class=SpellE>text-align:center</span>'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;Videos &amp;amp; Readings <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&amp;amp; Assignment due this
+week&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:20.25pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;37&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:20.25pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;1&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:20.25pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;August</span>
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>24&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:20.25pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;An Overview of Computer
+Security &amp;amp;<span style='mso-spacerun:yes'>  </span>Individual Project
+(IP) #1 Assigned.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:20.25pt'&gt;&lt;b&gt;&lt;span
+style=&quot;font-family: Arial&quot;&gt;Handout &amp;amp; Chapter <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>1 Security
+Concepts&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:29.25pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:29.25pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;2&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:29.25pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;August</span>
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>31
+&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:29.25pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Formal <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span>Security Models: Access Matrix<span
+class=GramE>,<span style='mso-spacerun:yes'>  </span>Bell</span> <span
+class=SpellE>Lapadula</span>, <span class=SpellE>Biba</span>;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:29.25pt'&gt;&lt;p&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt;Article#1
+Formal Models&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:24.0pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;3&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Sept</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>7&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style=&quot;font-family: Arial&quot;&gt;Overview <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span><span class=GramE>of</span> Oracle SQL;
+IP#2 Assigned;&lt;/span&gt;&lt;/b&gt;&lt;strong&gt; Monday: <span class=SpellE>Laboor</span>
+Day!&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Article #2 DB Sec.
+Concepts &amp;amp; <span class=SpellE>Chall</span>.; Individual Project (IP) #1
+Due&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:19.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:19.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;4&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:19.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Sept</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>14&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:19.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt; Oracle <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>SQL: DDL, DML, DQ,
+DCL&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:19.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt;Handout on
+SQL&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:24.0pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;5&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Sept</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>21&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>   </span><span
+style='mso-spacerun:yes'>   </span>&lt;td width=&quot;44%&quot; style='width<span
+class=GramE>:50.0</span>%;<span class=SpellE>border:inset</span> black
+.75pt;padding:6.0pt 6.0pt <span class=SpellE>6.0pt</span> <span class=SpellE>6.0pt</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>height:</span>24.0pt'&gt;&lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Views, PL/SQL,
+Functions, <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span>Procedures, Package, and Triggers;
+GP#3 Assigned&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family:
+Arial&quot;<span class=GramE>&gt;;</span>&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt;Handout on
+PL/SQL; Article #3; &lt;/span&gt;&lt;span style=&quot;font-family:
+Arial&quot;&gt;IP #2 due&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:24.0pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;6&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Sept</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>28&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;OS <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span>Security Basics / User
+Administration&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style=&quot;font-family: Arial&quot;&gt;Chapter 2 &amp;amp; 3;
+Handout&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:24.0pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; height=&quot;80&quot;
+<span class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;&amp;nbsp;7&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Oct</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>5&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Profile, <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>Password Policies, Privileges, and
+Roles&lt;/span&gt;&lt;/b&gt;; &lt;b&gt;&lt;span style=&quot;<span class=SpellE>font-family<span
+class=GramE>:Arial</span></span>&quot;&gt;GP#4 Assigned; <span class=SpellE>Friday:Fall</span>
+Break&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Chapter 4;&amp;<span
+class=SpellE>nbsp;Article</span> #4; Group Project (GP) #3 due
+&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;8&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Oct</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>12&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Privileges, <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span><span class=GramE>and</span>
+Roles&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt;
+&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Chapter 4
+&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;38&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;&amp;nbsp;9&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Oct</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>19&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style=&quot;font-family: Arial&quot;&gt;Chinese Wall; &lt;/span&gt;&lt;span style=&quot;<span
+class=SpellE>font-family:Arial</span>&quot;&gt;Digital <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>Authentication Methods; &lt;/span&gt;<span
+class=SpellE>Tue.<span class=GramE>:Faculty</span></span>
+Workshop!&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>padding:6.0pt 6.0pt <span class=SpellE>6.0pt</span>
+6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span style=&quot;font-family:
+Arial&quot;&gt;Article #5;&lt;/span&gt;&lt;span style='<span class=SpellE>font-family:Arial</span>'&gt;Handout;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;GP #4
+due&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;52&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;&amp;nbsp;10&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Oct</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>26&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Mid-term Exam;
+&lt;/span&gt; &lt;span style=&quot;font-family: Arial&quot;&gt;Virtual Private
+Database (VPD); GP#5 Assigned&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Article #6; Chapter
+6&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;38&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;&amp;nbsp;11&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;<span class=SpellE>nbsp;Nov</span>.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>2
+&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;VPD&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>   </span><span
+style='mso-spacerun:yes'>     </span>&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Chapter 6;
+Handout&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;43&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;&amp;nbsp;12&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>Nov.
+9&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; style='width<span
+class=GramE>:50.0</span>%;<span class=SpellE>border:inset</span> black
+.75pt;padding:6.0pt 6.0pt <span class=SpellE>6.0pt</span> <span class=SpellE>6.0pt</span>;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>height:</span>28.5pt'&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style='<span class=SpellE>font-family:Arial</span>'&gt;Database
+Application Security <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span><span class=SpellE>Models<span
+class=GramE>;Secure</span></span> Software Design&lt;/span&gt;&lt;/b&gt;;
+&lt;strong&gt;Wednesday: Veterans Day!&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Chapter 5; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>         
+</span>Handout&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;42&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;&amp;nbsp;13&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'> </span><span
+class=GramE>padding:</span>6.0pt 6.0pt <span class=SpellE>6.0pt</span>
+6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span style='<span class=SpellE>font-family:Arial</span>'&gt;Nov.
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>16&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt;SQL
+Injection;&lt;strong&gt;GP#6
+&lt;/strong&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;<span
+class=SpellE>font-family:Arial</span>&quot;&gt;Assigned&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt;Handout; GP #5
+due&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:24.0pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;14&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Nov. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>23&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt;&lt;b&gt;&lt;span
+style=&quot;<span class=SpellE>font-family:Arial</span>&quot;&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>SQL Injection; Encryption; Thursday:
+Thanksgiving<span class=GramE>!&lt;</span>/span&gt;&lt;/b&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:24.0pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Handout&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td <span class=SpellE>valign</span>=top
+style='width<span class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span>
+black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>15&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td <span class=SpellE>valign</span>=top
+style='width<span class=GramE>:19.0</span>%;<span class=SpellE>border:inset</span>
+black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;Nov. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>30&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td <span class=SpellE>valign</span>=top
+style='width<span class=GramE>:50.0</span>%;<span class=SpellE>border:inset</span>
+black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;Statistical <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>DB / Application Data
+Auditing&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td <span class=SpellE>valign</span>=top
+style='width<span class=GramE>:21.0</span>%;<span class=SpellE>border:inset</span>
+black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family:Arial</span>'&gt;Handout; Chapter <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>7, 8; GP #6
+due&lt;/span&gt;&lt;/b&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:28.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:10.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;&amp;nbsp;16&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Dec. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>7&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;44%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:50.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Application Data
+Auditing&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;22%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:21.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:28.5pt'&gt; &lt;p class=<span
+class=SpellE>MsoNormal</span>&gt; &lt;<span class=SpellE>o:p</span>&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Chapter <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span>9&lt;/span&gt;&lt;/b&gt;&lt;/<span
+class=SpellE>o<span class=GramE>:p</span></span>&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>tr</span>
+style='height<span class=GramE>:31.5pt'</span>&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;13%&quot;
+height=&quot;44&quot; <span class=SpellE>valign</span>=top style='width<span
+class=GramE>:10.0</span>%;<span class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:31.5pt'&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;p&gt;&lt;b&gt;&lt;span style='<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span><span
+class=GramE>'</span>&gt;Final <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>         
+</span>Week&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td width=&quot;21%&quot; <span
+class=SpellE>valign</span>=top style='width<span class=GramE>:19.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:31.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Dec. <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>     
+</span>14&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;td <span class=SpellE>colspan</span>=2
+<span class=SpellE>valign</span>=top style='width<span class=GramE>:71.0</span>%;<span
+class=SpellE>border:inset</span> black .75pt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span><span class=GramE>padding:</span>6.0pt 6.0pt <span
+class=SpellE>6.0pt</span> 6.0pt;height:31.5pt'&gt; &lt;p&gt;&lt;b&gt;&lt;span
+style='<span class=SpellE>font-family:Arial</span>'&gt;Final <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>Exam: December 16, Wednesday,
+5:30pm-7:30pm Online&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/td&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE><span class=GramE>tr</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;/table&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;div class=<span
+class=SpellE>MsoNormal</span> align=center style='<span class=SpellE>text-align<span
+class=GramE>:center</span></span><span class=GramE>'</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;p
+align=&quot;left&quot;&gt;&lt;strong&gt;&lt;b&gt;&lt;span style=&quot;<span
+class=SpellE>font-family<span class=GramE>:Arial</span></span>&quot;&gt;10.
+General Policies&lt;/span&gt;&lt;/b&gt;&lt;/strong&gt;&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;<span class=SpellE><span class=GramE>ul</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=GramE>li</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;div
+align=&quot;left&quot;&gt;&lt;strong&gt;Americans with Disability Act (ADA)
+Statement: <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span>&lt;/strong&gt;A student who has a
+disability that might affect his/her performance <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span><span class=GramE>in</span> this
+course should consult with the instructor, in confidence, by <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span><span class=GramE>the</span> second
+class session.&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;/<span class=SpellE>ul</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;div align=&quot;left&quot;&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>ul</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>li</span>&gt;&lt;strong&gt;<span
+class=SpellE>Herberger</span> Business School Academic Integrity Policy -
+&lt;/strong&gt;Original <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span><span class=GramE>work</span> is
+expected of every student. Any student who cheats or represented <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span><span class=GramE>another's</span>
+work as his/her own, or assists another student in cheating <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span><span class=GramE>will</span>
+automatically fail the course. Furthermore, the case will be reported <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span><span class=GramE>to</span>
+department, college and university for further action. Refer&lt;a <span
+class=SpellE>href</span>=&quot;What Constitutes Academic Dishonesty.docx&quot;
+title=&quot;Academic Dishonesty&quot; target=&quot;_new&quot;&gt; <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>          </span>What Constitute Academic
+Dishonesty&lt;/a&gt;&lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;/<span class=SpellE>ul</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>   </span><span
+style='mso-spacerun:yes'> </span>&lt;p&gt;<span class=GramE>For</span>
+assistance with writing style and documentation, please visit St. Cloud <o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>State University's writing center, The
+Write Place, &lt;a
+href=&quot;http://www.stcloudstate.edu/writeplace/&quot;&gt;http://www.stcloudstate.edu/writeplace/&lt;/a&gt;
+<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span><span class=GramE>or</span> the Online writing
+Lab of Purdue University at &lt;a
+href=&quot;http://owl.english.purdue.edu/&quot;&gt;http://owl.english.purdue.edu/&lt;/a&gt;&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;p&gt;&lt;strong&gt;The instructor
+reserves the right to change any of the above <span class=GramE>items<span
+style='mso-spacerun:yes'>  </span>and</span> the course syllabus at any time
+during the course.&lt;/strong&gt;&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;p&gt;&lt;strong&gt;11. COVID-19
+Policies&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=SpellE><span class=GramE>br</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;/strong&gt;<span
+style='mso-spacerun:yes'>    </span>St. Cloud State University (SCSU), in<span
+style='mso-spacerun:yes'>  </span>coordination with state and local health
+departments, is closely monitoring the<span style='mso-spacerun:yes'> 
+</span>spread of COVID-19 and following the State of <span class=SpellE>Minnesota&amp;rsquo;s</span>
+laws and guidelines<span style='mso-spacerun:yes'>  </span>to keep everyone
+safe. We have developed a list of <span class=GramE>ways<span
+style='mso-spacerun:yes'>  </span>that</span> all of us can participate to
+assure our campus is safe for living and<span style='mso-spacerun:yes'> 
+</span>learning. I expect that all of us will honor and respect ourselves and <span
+class=GramE>each<span style='mso-spacerun:yes'>  </span>other</span> by following
+the &amp;<span class=SpellE>ldquo;Keep</span> the Pack <span class=SpellE>Safe&amp;rdquo</span>;
+guidelines in our classroom. As <span class=GramE>a<span
+style='mso-spacerun:yes'>  </span>reminder</span>:&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE><span class=GramE>ol</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>li&gt;</span>Complete<span
+style='mso-spacerun:yes'>  </span>the self-assessment every morning before you
+come to campus or attend classes.<span style='mso-spacerun:yes'>  </span>You
+can locate the self-assessment tool at &lt;a href=&quot;https://www.stcloudstate.edu/emergency/covid19/self-assessment/default.aspx&quot;&gt;https://www.stcloudstate.edu/emergency/covid19/self-assessment/default.aspx&lt;/a<span
+class=GramE>&gt; .</span> &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;li&gt;<span class=SpellE>You&amp;nbsp;must&amp;nbsp;wear</span><span
+style='mso-spacerun:yes'>  </span>a face mask/covering every time you enter an
+SCSU building including in our<span style='mso-spacerun:yes'> 
+</span>classroom. Keep it on during class. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>li&gt;</span>If
+you<span style='mso-spacerun:yes'>  </span>are unable to wear a face mask or
+covering for medical reasons, please contact<span style='mso-spacerun:yes'> 
+</span>the Student Accessibility Services Office at &lt;a
+href=&quot;https://www.stcloudstate.edu/sas/&quot;&gt;https://www.stcloudstate.edu/sas/&lt;/a&gt;
+for an accommodation. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>li&gt;</span>Wash<span
+style='mso-spacerun:yes'>  </span>your hands frequently and use the hand
+sanitizers available to you. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>li&gt;</span>Practice<span
+style='mso-spacerun:yes'>  </span>physical distancing at all times: &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=SpellE><span class=GramE>ol</span></span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>li&gt;</span>Be
+sure<span style='mso-spacerun:yes'>  </span>to sit in the designated classroom
+seats marked for safe distancing. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>li&gt;</span>Remain<span
+style='mso-spacerun:yes'>  </span>6 feet apart at all times. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>        </span>&lt;<span class=GramE>li&gt;</span>Greet<span
+style='mso-spacerun:yes'>  </span>each other without shaking hands. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;/<span class=SpellE>ol</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>li&gt;</span>If
+you<span style='mso-spacerun:yes'>  </span>are not feeling well, be sure to
+call the SCSU Medical Clinic for assistance at<span style='mso-spacerun:yes'> 
+</span>(320) 308-3193 or email &lt;a
+href=&quot;mailto:myhealthservices@stcloudstate.edu&quot;&gt;myhealthservices@stcloudstate.edu&lt;/a&gt;
+. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>      </span>&lt;<span class=GramE>li&gt;</span>If
+you<span style='mso-spacerun:yes'>  </span>are not feeling well, do not come to
+class that day. You can contact me to <span class=GramE>make<span
+style='mso-spacerun:yes'>  </span>alternative</span> arrangements. &lt;/li&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;/<span class=SpellE>ol</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>    </span>&lt;p&gt;&lt;<span class=SpellE>br</span>&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/p&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><span
+style='mso-spacerun:yes'>  </span>&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/body&gt;<o:p></o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Courier New"'>&lt;/html&gt;<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

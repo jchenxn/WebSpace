@@ -1,0 +1,152 @@
+----------- Script file for Oracle tutorial 1
+------------- Jim Chen
+------------- 2017
+
+-- Drop all tables
+Drop Table Enroll cascade constraints;
+Drop Table Student cascade constraints;
+Drop Table Course cascade constraints;
+Drop Table BCIS444 cascade constraints;
+DROP TABLE Employee cascade constraints;
+
+-- Create course table
+
+CREATE TABLE Course(
+Cou_ID Char(8) CONSTRAINT Course_ID_Pk PRIMARY KEY,
+Cou_Name varchar2(45),
+Cou_Prof varchar2(20));
+
+--- Create student table
+
+CREATE TABLE Student(
+Stu_No Number(3) CONSTRAINT Stu_ID_Pk PRIMARY KEY,
+Stu_LName Varchar2(10),
+Stu_Fname Varchar2(8),
+Stu_major Varchar2(5),
+Stu_Street Varchar2(20),
+Stu_City Varchar2(10),
+Stu_Enroll_Date Date,
+Stu_GPA Number(3,2));
+
+--- Create enrollment table
+
+CREATE TABLE Enroll(
+Stu_No Number(3) CONSTRAINT Enroll_StuNO_Fk REFERENCES Student(Stu_NO),
+Cou_ID Char(8) CONSTRAINT Enroll_CouID_Fk REFERENCES Course(Cou_ID),
+Enr_Grade Char CONSTRAINT Enroll_Grade_C1 CHECK (Enr_Grade IN ('A','B','C','D','F', 'I', 'W')),
+CONSTRAINT Enroll_Pk PRIMARY KEY(Cou_ID, Stu_No)); 
+
+--assume no course retake allowed
+
+--- inserting records into Student
+
+INSERT INTO Student values
+(111, 'Zhang','Jenny', 'BCIS', '4567 A Street','St. Cloud',To_Date('February 21,2000', 'Month dd, yyyy'),3.56);
+
+INSERT INTO Student values
+(112, 'Smith','Jon', 'BCIS', '4567 A Street','St. Cloud',To_Date('3/23/2000', 'mm/dd/yyyy'),3.56);
+
+INSERT INTO Student values
+(113, 'Chou','Bob', 'ACCT', '9876 A Street','St. Cloud',To_Date('23-2-2000', 'dd-mm-yyyy'),3.9);
+
+INSERT INTO Student values
+(114, 'Doe','Rick', 'ACCT', '3456 Z Street','St. Cloud',To_Date('20-6-2001', 'dd-mm-yyyy'),3.5);
+
+INSERT INTO Student values
+(115, 'Schmidt','Nick', 'MGMT', '2400 Peach Street','Rochester',To_Date('Apr 2 2001', 'Mon dd yyyy'),3.0);
+
+--- inserting records into Course
+
+INSERT INTO Course Values
+('BCIS 250', 'Application Dev. I', 'AChou');
+
+INSERT INTO Course Values
+('BCIS 251', 'Application Dev. II', 'SYang');
+
+INSERT INTO Course Values
+('BCIS 240', 'Stats I', 'DKrueger');
+
+INSERT INTO Course Values
+('BCIS 241', 'Stats II', 'DKrueger');
+
+INSERT INTO Course Values
+('BCIS 340', 'Intro. MIS', 'JSong');
+
+INSERT INTO Course Values
+('BCIS 350', 'SAD I', 'MSchmidt');
+
+INSERT INTO Course Values
+('BCIS 351', 'SAD II', 'VMcIntyre');
+
+INSERT INTO Course Values
+('BCIS 443', 'Database Design', 'JChen');
+
+INSERT INTO Course Values
+('BCIS 444', 'Internship', 'SJohnson');
+
+INSERT INTO Course Values
+('BCIS 453', 'Client/Server', 'RHeath');
+
+--- insering records into Enroll
+
+INSERT INTO Enroll Values
+(111, 'BCIS 443','A');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 443',NULL);
+
+INSERT INTO Enroll Values
+(113, 'BCIS 443','A');
+
+INSERT INTO Enroll Values
+(114, 'BCIS 443','A');
+
+INSERT INTO Enroll Values
+(111, 'BCIS 351', 'A');
+
+INSERT INTO Enroll Values
+(113, 'BCIS 251', 'C');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 350', 'C');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 453', 'A');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 250', 'A');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 251', 'B');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 240', 'B');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 241', 'B');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 340', 'C');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 351', 'B');
+
+INSERT INTO Enroll Values
+(112, 'BCIS 444', 'B');
+
+
+--Make the changes permanent
+
+Commit;
+
+-- Q1
+
+
+
+-- Q2
+
+
+
+
+
+

@@ -1,0 +1,3143 @@
+[2006/03/30 18:30:07]
+VC++ __active_heap = 1
+HeapQueryInformation=1
+GetProcessAffinityMask=0x00000001
+tryLock supported
+
+========= GlobalMemoryStatus:
+MemoryLoad 68
+TotalPhys 1F77B000,  AvailPhys 09ED2000,  TotalVirtual 7FFE0000,  AvailVirtual 7E2ED000, TotalPageFile 4CCE0000, AvailPageFile 3A473000
+GDI objects 8, USER objects 2
+W:\images\PokerStars.exe
+========= OS NT 5.1 'Service Pack 2'   Client 1.806   Mar 23 2006
+[2006/03/30 18:30:08]
+Started Local thread #0 - type 'update'
+Sending CREATESERVER msg to local thread #0
+LocalThread[ 0 ]: Creating Server 'updateInstance'
+UpdateServerObject: key #0 loaded: valid from 2002/03/25 to 2008/05/20
+CommRoutingTable: server object 'updateInstance' registered
+LocalThread[ 0 ]: ServerObject 'updateInstance' created in slot 0
+LocalThread[ 0 ]: ServerObject( 0 ) registered
+CommServerConnectionPool: _COMM_MSGTYPE_PHYSICAL_CONNECT
+CommClientConnectionPool: _COMM_MSGTYPE_PHYSICAL_CONNECT
+[2006/03/30 18:30:10]
+GUID 06737306020105700177737704067307
+SYSVOL CC9B41CF
+MAC 000BCD66B680
+[2006/03/30 18:30:19]
+soundOn
+[2006/03/30 18:30:24]
+CommClientSubscriberPool: _COMM_MSGTYPE_PHYSICAL_CONNECT
+Started Simple thread #0
+SimpleManager thread started
+CommClientConnectionPool: _COMM_MSGTYPE_PHYSICAL_CONNECT
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E04862 peerId=B1E03C01
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E04863 peerId=B1E03C02
+Creating socket 316
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E04864 peerId=B1E03C03
+Disabling TCP delay
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_ACCEPTED: thisId=B1E04802 peerId=B1E03C01
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_GRANTED: thisId=B1E04802 peerId=B1E03C01 priority=6
+SimpleWriter thread started
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_GUARD_REQUEST_GRANTED: thisId=B1E04802 peerId=B1E03C01 sessionId=0A8587E3 priority=6
+Connecting to 66.212.233.234:443
+[2006/03/30 18:30:25]
+Connected to 66.212.233.234:443
+SimpleReader thread started
+Error in SimpleReader stream: Socket: connection closed: The operation completed successfully.   (0=0x0)
+SimpleReader thread terminated
+SimpleThread: Read/write thread failure notification received - closing connection
+Closing socket 316
+SimpleWriter thread terminated
+SimpleManager thread terminated
+[2006/03/30 18:30:26]
+Started Simple thread #0
+SimpleManager thread started
+Creating socket 288
+Disabling TCP delay
+SimpleWriter thread started
+Connecting to 66.212.233.235:443
+Connected to 66.212.233.235:443
+SimpleReader thread started
+[2006/03/30 18:30:31]
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E04862 peerId=B1E03C01 priority=6 size=387395
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E04865 peerId=B1E03C04
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E04863 peerId=B1E03C02 priority=6 size=44324
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E04864 peerId=B1E03C03 priority=6 size=5725
+LobbyFrame::OnRootSyncr() SrvTime 2006/03/30 19:29:12
+[2006/03/30 18:30:32]
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E04865 peerId=B1E03C04 priority=6 size=78
+[2006/03/30 18:30:43]
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E04866 peerId=B1E03C05
+[2006/03/30 18:30:44]
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E04866 peerId=B1E03C05 priority=6 size=206
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E04867 peerId=B1E03C06
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E04867 peerId=B1E03C06 priority=6 size=198
+[2006/03/30 18:30:46]
+CMainFrame::CMainFrame()
+========= GlobalMemoryStatus:
+MemoryLoad 70
+TotalPhys 1F77B000,  AvailPhys 095FC000,  TotalVirtual 7FFE0000,  AvailVirtual 7D031000, TotalPageFile 4CCE0000, AvailPageFile 39C34000
+GDI objects 322, USER objects 77
+[2006/03/30 18:30:51]
+CMainFrame::OnCreate() - Subscribe tableClient
+CommClientSubscriberPool: unexpected _COMM_MSGTYPE_SUBSCRIPTION_ONLINE_UPDATE msg for subscrId=B1E04862 in state=5 - ignored
+CommClientSubscriberPool: unexpected _COMM_MSGTYPE_SUBSCRIPTION_ONLINE_UPDATE msg for subscrId=B1E04863 in state=5 - ignored
+CommClientSubscriberPool: unexpected _COMM_MSGTYPE_SUBSCRIPTION_ONLINE_UPDATE msg for subscrId=B1E04862 in state=5 - ignored
+CommClientSubscriberPool: unexpected _COMM_MSGTYPE_SUBSCRIPTION_ONLINE_UPDATE msg for subscrId=B1E04863 in state=5 - ignored
+CommClientSubscriberPool: unexpected _COMM_MSGTYPE_SUBSCRIPTION_ONLINE_UPDATE msg for subscrId=B1E04862 in state=5 - ignored
+CommClientSubscriberPool: unexpected _COMM_MSGTYPE_SUBSCRIPTION_ONLINE_UPDATE msg for subscrId=B1E04863 in state=5 - ignored
+CommClientSubscriberPool: _COMM_MSGTYPE_PHYSICAL_CONNECT
+CommClientConnectionPool: _COMM_MSGTYPE_PHYSICAL_CONNECT
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E0D802 peerId=B1E03C07
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E0D802 peerId=B1E03C07 priority=6 size=11872
+CMainFrame::OnSincr()
+maxTablePlayers = 9
+CardFactory::newFace( 10c )
+CardFactory::newFace( 8h )
+CardFactory::newFace( 7h )
+hideAllPotUp 0
+deleteAllPot 0
+Game     #4467348296  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+INDICATOR0 Empty
+INDICATOR1 Empty
+INDICATOR2 Occupied
+INDICATOR3 Occupied
+INDICATOR4 Occupied
+INDICATOR5 Empty
+INDICATOR6 Occupied
+INDICATOR7 Empty
+INDICATOR8 Occupied
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E0D803 peerId=B1E03C08
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E0D804 peerId=B1E03C09
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E0D804 peerId=B1E03C09 priority=6 size=198
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E0D803 peerId=B1E03C08 priority=6 size=5014
+CARTOON synchronized
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E0D805 peerId=B1E03C0A
+[2006/03/30 18:30:52]
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E0D805 peerId=B1E03C0A priority=6 size=5201
+CARTOON synchronized
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_REQUEST_ACCEPTED: thisId=B1E0D806 peerId=B1E03C0B
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESPONSE: thisId=B1E0D806 peerId=B1E03C0B priority=6 size=5348
+CARTOON synchronized
+[2006/03/30 18:30:53]
+MSG_TABLE_SUBSCR_ACTION
+CMainFrame::OnLButtonDown 519 43 004702A4
+[2006/03/30 18:30:54]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:30:56]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:30:57]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=3
+CardFactory::newFace( 11d )
+[2006/03/30 18:31:00]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:01]
+CommClientPlainTextPasswordSidGuardFactory::setAuth( 'ccvip23', '*' )
+CMainFrame::connPool.connect called
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_ACCEPTED: thisId=B1E0D801 peerId=B1E03C02
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_GRANTED: thisId=B1E0D801 peerId=B1E03C02 priority=6
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_GUARD_REQUEST_GRANTED: thisId=B1E0D801 peerId=B1E03C02 sessionId=0A862A9B priority=6
+CMainFrame::TableClientConnection::connected()
+CMainFrame::OnConnected() state=1
+MSG_TABLE_LOGIN as 'ccvip23' posted
+Connect quality 100
+Connect quality 112
+Connect quality 100
+Connect quality 112
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_ACCEPTED: thisId=B1E04803 peerId=B1E03C03
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_ACCEPTED: thisId=B1E04804 peerId=B1E03C04
+MSG_TABLE_LOGIN_REPLY 004702A4 sit=FFFFFFFF out=1 priv=0 text=''
+MSG_TABLE_SIT1 posted key 0
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_GRANTED: thisId=B1E04803 peerId=B1E03C03 priority=6
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_REQUEST_GRANTED: thisId=B1E04804 peerId=B1E03C04 priority=6
+INDICATOR0 Occupied
+MSG_TABLE_SIT1_REPLY 004702A4
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_GUARD_REQUEST_GRANTED: thisId=B1E04804 peerId=B1E03C04 sessionId=0A862BB4 priority=6
+CommClientConnectionPool: _COMM_MSGTYPE_CONNECT_GUARD_REQUEST_GRANTED: thisId=B1E04803 peerId=B1E03C03 sessionId=0A862BB4 priority=6
+LobbyFrame::LobbyClientConnection::connected
+MSG_LOBBY_CLI_USER_WHERE
+RT dataReceived
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:02]
+MSG_LOBBY_USER_PROPS_REPLY
+[2006/03/30 18:31:04]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SIT2 posted
+MSG_TABLE_SIT2_REPLY 004702A4 0 4 ''
+[2006/03/30 18:31:05]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:06]
+CMainFrame::OnLButtonDown 388 52 004702A4
+[2006/03/30 18:31:07]
+MSG_TABLE_CHIPSAVAIL posted
+MSG_TABLE_CHIPSAVAIL_REPLY 004702A4
+[2006/03/30 18:31:08]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:31:09]
+OnAnimAddBoard n=4
+CardFactory::newFace( 7d )
+[2006/03/30 18:31:16]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:18]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:19]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+[2006/03/30 18:31:21]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:31:22]
+MSG_TABLE_SUBSCR_ENDHAND
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:25]
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+[2006/03/30 18:31:26]
+MSG_TABLE_SUBSCR_BEGINHAND
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467357692  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'P' 1000
+ ' ' 0
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:31:27]
+CMainFrame::OnLButtonDown 455 527 004702A4
+Button 'P' mouse down
+CMainFrame::OnLButtonUp 455 527 004702A4
+Button 'P' selected
+MSG_TABLE_ACTION 'P' 0x3E8 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+MSG_TABLE_PLAYERCARDS 004702A4
+  sit0
+::: 9d
+  nCards=2
+::: 11d
+  sit3
+------ 004702A4
+  nCards=2
+CMainFrame::OnPlayerCards, myCards.changed=0
+  sit8
+myCards.changed=1
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+[2006/03/30 18:31:28]
+CardFactory::newFace( 9d )
+CardFactory::newFace( 11d )
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:31:29]
+CMainFrame::OnLButtonDown 15 394 004702A4
+CMainFrame::OnLButtonUp 15 394 004702A4
+[2006/03/30 18:31:31]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:31:32]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'E' 2000, 67000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:31:35]
+CMainFrame::OnLButtonDown 728 504 004702A4
+Button 'E' mouse down
+CMainFrame::OnLButtonUp 728 504 004702A4
+Button 'E' selected
+MSG_TABLE_ACTION 'E' 0x5DC0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:37]
+MSG_TABLE_SUBSCR_MESSAGE2
+[2006/03/30 18:31:40]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:41]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=3
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:31:42]
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 5c )
+CardFactory::newFace( 8c )
+CardFactory::newFace( 6d )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:31:44]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'B' 1000, 43000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:31:50]
+CMainFrame::OnLButtonDown 737 512 004702A4
+Button 'B' mouse down
+CMainFrame::OnLButtonUp 737 512 004702A4
+Button 'B' selected
+MSG_TABLE_ACTION 'B' 0xA7F8 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:31:52]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:32:04]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:32:05]
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=1
+OnAnimAddBoard n=3
+CardFactory::newFace( 13c )
+[2006/03/30 18:32:08]
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=1
+OnAnimAddBoard n=4
+CardFactory::newFace( 12s )
+[2006/03/30 18:32:11]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_REQUESTACTION 004702A4
+ 'M' 0
+ 's' 0
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CardFactory::newFace( 10h )
+CardFactory::newFace( 14s )
+[2006/03/30 18:32:13]
+CMainFrame::OnLButtonDown 490 519 004702A4
+Button 'M' mouse down
+CMainFrame::OnLButtonUp 486 519 004702A4
+Button 'M' selected
+MSG_TABLE_ACTION 'M' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:32:16]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_ENDHAND
+Statistics info: 000033B1
+CMainFrame::OnLButtonDown 394 64 004702A4
+[2006/03/30 18:32:17]
+MSG_TABLE_CHIPSAVAIL posted
+MSG_TABLE_CHIPSAVAIL_REPLY 004702A4
+[2006/03/30 18:32:19]
+MSG_TABLE_ADDCHIPS 100000  posted
+MSG_TABLE_ADDCHIPS_REPLY 004702A4
+[2006/03/30 18:32:20]
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_BEGINHAND
+MSG_TABLE_REQUESTACTION 004702A4
+ 'p' 500
+ ' ' 0
+MSG_TABLE_ACTION 'p' 0x1F4 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467367699  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:32:22]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+MSG_TABLE_PLAYERCARDS 004702A4
+  sit0
+::: 12c
+  nCards=2
+::: 8s
+  sit3
+------ 004702A4
+  nCards=2
+CMainFrame::OnPlayerCards, myCards.changed=0
+  sit4
+myCards.changed=1
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+CardFactory::newFace( 12c )
+[2006/03/30 18:32:23]
+CardFactory::newFace( 8s )
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 500
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:32:25]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1500
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:32:26]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1500
+ '*' 'E' 3000, 100000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:32:28]
+CMainFrame::OnLButtonDown 609 547 004702A4
+CMainFrame::OnLButtonUp 610 544 004702A4
+CMainFrame::OnLButtonDown 609 510 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 609 510 004702A4
+Button 'C' selected
+MSG_TABLE_ACTION 'C' 0x5DC posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:32:29]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=3
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:32:30]
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 8h )
+CardFactory::newFace( 11c )
+CardFactory::newFace( 7s )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'B' 1000, 98000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:32:32]
+CMainFrame::OnLButtonDown 609 510 004702A4
+Button 'c' mouse down
+CMainFrame::OnLButtonUp 609 510 004702A4
+Button 'c' selected
+MSG_TABLE_ACTION 'c' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:32:37]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:32:43]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 10000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:32:44]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:32:45]
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 10000
+ '*' 'E' 20000, 98000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:32:46]
+CMainFrame::OnLButtonDown 609 510 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 609 510 004702A4
+Button 'C' selected
+MSG_TABLE_ACTION 'C' 0x2710 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:32:51]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:32:52]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=3
+CardFactory::newFace( 7h )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'B' 1000, 88000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:32:59]
+CMainFrame::OnLButtonDown 725 538 004702A4
+Button 'B' mouse down
+CMainFrame::OnLButtonUp 725 536 004702A4
+Button 'B' selected
+MSG_TABLE_ACTION 'B' 0x8CA0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:33:07]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:33:08]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:33:09]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:33:10]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=4
+CardFactory::newFace( 5s )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'B' 1000, 52000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:33:15]
+CMainFrame::OnLButtonDown 602 513 004702A4
+Button 'c' mouse down
+CMainFrame::OnLButtonUp 602 513 004702A4
+Button 'c' selected
+MSG_TABLE_ACTION 'c' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:33:21]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+[2006/03/30 18:33:22]
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 10000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:33:26]
+AdvActionCheck::OnLButtonDown Call 100 004702A4
+Adv box[4] Checked 'C'
+[2006/03/30 18:33:28]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 52000
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:33:34]
+CMainFrame::OnLButtonDown 479 519 004702A4
+Button 'F' mouse down
+CMainFrame::OnLButtonUp 479 519 004702A4
+Button 'F' selected
+MSG_TABLE_ACTION 'F' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:33:41]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:33:42]
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:33:43]
+MSG_TABLE_HAND_RANK 004702A4
+CardFactory::newFace( 12d )
+CardFactory::newFace( 11h )
+CardFactory::newFace( 9c )
+CardFactory::newFace( 6d )
+[2006/03/30 18:33:45]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_ENDHAND
+Statistics info: 00005315
+[2006/03/30 18:33:49]
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+MSG_TABLE_SUBSCR_BEGINHAND
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467384233  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+[2006/03/30 18:33:51]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:33:52]
+MSG_TABLE_PLAYERCARDS 004702A4
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+::: 6c
+  sit0
+::: 11d
+  nCards=2
+------ 004702A4
+  sit3
+CMainFrame::OnPlayerCards, myCards.changed=0
+  nCards=2
+myCards.changed=1
+  sit4
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+CardFactory::newFace( 6c )
+[2006/03/30 18:33:53]
+CardFactory::newFace( 11d )
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:33:55]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1000
+ '*' 'E' 2000, 52000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:33:57]
+CMainFrame::OnLButtonDown 739 505 004702A4
+Button 'E' mouse down
+CMainFrame::OnLButtonUp 739 505 004702A4
+Button 'E' selected
+MSG_TABLE_ACTION 'E' 0xCB20 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:03]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:04]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:05]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:34:06]
+OnAnimAddPot 6
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=3
+OnAnimAddBoard n=0
+[2006/03/30 18:34:07]
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 14h )
+CardFactory::newFace( 12d )
+CardFactory::newFace( 3c )
+[2006/03/30 18:34:09]
+INDICATOR5 Occupied
+[2006/03/30 18:34:12]
+INDICATOR5 Empty
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=1
+OnAnimAddBoard n=3
+CardFactory::newFace( 14d )
+[2006/03/30 18:34:14]
+INDICATOR7 Occupied
+[2006/03/30 18:34:15]
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=1
+OnAnimAddBoard n=4
+CardFactory::newFace( 9s )
+[2006/03/30 18:34:18]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_REQUESTACTION 004702A4
+ 'M' 0
+ 's' 0
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CardFactory::newFace( 13h )
+CardFactory::newFace( 2h )
+[2006/03/30 18:34:20]
+CMainFrame::OnLButtonDown 459 505 004702A4
+Button 'M' mouse down
+CMainFrame::OnLButtonUp 459 505 004702A4
+Button 'M' selected
+MSG_TABLE_ACTION 'M' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:34:23]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_ENDHAND
+Statistics info: 000213B1
+CMainFrame::OnLButtonDown 382 52 004702A4
+[2006/03/30 18:34:25]
+MSG_TABLE_CHIPSAVAIL posted
+MSG_TABLE_CHIPSAVAIL_REPLY 004702A4
+[2006/03/30 18:34:27]
+MSG_TABLE_ADDCHIPS 100000  posted
+MSG_TABLE_ADDCHIPS_REPLY 004702A4
+MSG_TABLE_SUBSCR_BEGINHAND
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467391167  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:29]
+MSG_TABLE_SUBSCR_ACTION
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+MSG_TABLE_PLAYERCARDS 004702A4
+  sit0
+::: 6c
+  nCards=2
+::: 4d
+  sit2
+------ 004702A4
+  nCards=2
+CMainFrame::OnPlayerCards, myCards.changed=0
+  sit3
+myCards.changed=1
+  nCards=2
+  sit4
+  nCards=2
+  sit7
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+[2006/03/30 18:34:30]
+CardFactory::newFace( 6c )
+[2006/03/30 18:34:31]
+CardFactory::newFace( 4d )
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:34:33]
+AdvActionCheck::OnLButtonDown Call 10 004702A4
+Adv box[4] Checked 'C'
+[2006/03/30 18:34:34]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1000
+ '*' 'E' 2000, 100000, 1000, 100
+AdvChoice found 'C' 1000
+MSG_TABLE_ACTION 'C' 0x3E8 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:36]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:38]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=3
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:34:39]
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 7d )
+CardFactory::newFace( 3c )
+CardFactory::newFace( 4h )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:34:41]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:34:48]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 15000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:34:49]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:50]
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 15000
+ '*' 'E' 30000, 99000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:34:52]
+CMainFrame::OnLButtonDown 608 499 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 608 499 004702A4
+Button 'C' selected
+MSG_TABLE_ACTION 'C' 0x3A98 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:53]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:34:56]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:35:02]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:35:03]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=3
+CardFactory::newFace( 8c )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:35:09]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:35:10]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 14000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:35:11]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 14000
+ '*' 'E' 28000, 84000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:35:14]
+CMainFrame::OnLButtonDown 631 518 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 631 518 004702A4
+Button 'C' selected
+MSG_TABLE_ACTION 'C' 0x36B0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:35:16]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:35:17]
+OnAnimAddBoard n=4
+CardFactory::newFace( 11c )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:35:19]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:35:23]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:35:24]
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 70000
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:35:26]
+INDICATOR5 Occupied
+[2006/03/30 18:35:32]
+CMainFrame::OnLButtonDown 474 521 004702A4
+Button 'F' mouse down
+CMainFrame::OnLButtonUp 474 521 004702A4
+Button 'F' selected
+MSG_TABLE_ACTION 'F' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:35:38]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:35:39]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+CardFactory::newFace( 11d )
+CardFactory::newFace( 3h )
+[2006/03/30 18:35:42]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:35:44]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:35:45]
+MSG_TABLE_SUBSCR_ENDHAND
+Statistics info: 00001315
+[2006/03/30 18:35:48]
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+MSG_TABLE_SUBSCR_BEGINHAND
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467406062  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+[2006/03/30 18:35:49]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'P' 1000
+ ' ' 0
+MSG_TABLE_ACTION 'P' 0x3E8 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+MSG_TABLE_PLAYERCARDS 004702A4
+  sit0
+::: 13h
+  nCards=2
+::: 4h
+  sit2
+------ 004702A4
+  nCards=2
+CMainFrame::OnPlayerCards, myCards.changed=0
+  sit3
+myCards.changed=1
+  nCards=2
+  sit4
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+[2006/03/30 18:35:50]
+CardFactory::newFace( 13h )
+CardFactory::newFace( 4h )
+[2006/03/30 18:35:51]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:35:52]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:35:54]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 2000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:35:58]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 2000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:35:59]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 2000
+ '*' 'E' 4000, 70000, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:36:01]
+CMainFrame::OnLButtonDown 747 507 004702A4
+Button 'E' mouse down
+CMainFrame::OnLButtonUp 746 507 004702A4
+Button 'E' selected
+MSG_TABLE_ACTION 'E' 0x11170 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:05]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:07]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:16]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:36:17]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=3
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=0
+[2006/03/30 18:36:18]
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 5d )
+CardFactory::newFace( 8s )
+CardFactory::newFace( 4s )
+MSG_TABLE_HAND_RANK 004702A4
+[2006/03/30 18:36:26]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:31]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:33]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 1
+deleteAllPot 1
+[2006/03/30 18:36:34]
+OnAnimAddBoard n=3
+CardFactory::newFace( 10h )
+MSG_TABLE_HAND_RANK 004702A4
+[2006/03/30 18:36:44]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:48]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:36:49]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 1
+deleteAllPot 1
+OnAnimAddBoard n=4
+CardFactory::newFace( 9h )
+MSG_TABLE_HAND_RANK 004702A4
+[2006/03/30 18:36:54]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:56]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:36:57]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+CardFactory::newFace( 14d )
+CardFactory::newFace( 14h )
+[2006/03/30 18:36:58]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:00]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:03]
+MSG_TABLE_REQUESTACTION 004702A4
+ 'M' 0
+ 's' 0
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 1
+deleteAllPot 1
+[2006/03/30 18:37:04]
+CMainFrame::OnLButtonDown 430 73 004702A4
+[2006/03/30 18:37:05]
+MSG_TABLE_CHIPSAVAIL posted
+MSG_TABLE_CHIPSAVAIL_REPLY 004702A4
+[2006/03/30 18:37:06]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_CANCELACTION 004702A4 text=''
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:37:07]
+CMainFrame::OnLButtonDown 415 62 004702A4
+[2006/03/30 18:37:08]
+MSG_TABLE_CHIPSAVAIL posted
+MSG_TABLE_CHIPSAVAIL_REPLY 004702A4
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:37:09]
+MSG_TABLE_SUBSCR_ENDHAND
+Statistics info: 000033B1
+[2006/03/30 18:37:10]
+CMainFrame::OnLButtonDown 396 75 004702A4
+[2006/03/30 18:37:11]
+MSG_TABLE_CHIPSAVAIL posted
+MSG_TABLE_CHIPSAVAIL_REPLY 004702A4
+[2006/03/30 18:37:12]
+MSG_TABLE_SUBSCR_BEGINHAND
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+MSG_TABLE_FORCE_SITOUT 004702A4 1 'You don't have enough chips to continue.
+To add more chips click on the dealer tray and then click on "Add more chips ..."'
+[2006/03/30 18:37:13]
+REPORT 'You don't have enough chips to continue.
+To add more chips click on the dealer tray and then click on "Add more chips ..."'
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467421593  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+[2006/03/30 18:37:14]
+MSG_TABLE_ADDCHIPS 100000  posted
+MSG_TABLE_ADDCHIPS_REPLY 004702A4
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SITIN posted
+MSG_TABLE_SITIN_REPLY 004702A4 2 4 ''
+MSG_TABLE_SITTING_STATUS 004702A4 0
+[2006/03/30 18:37:15]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:18]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:19]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+  sit2
+  nCards=2
+  sit3
+  nCards=2
+hideAllPotUp 0
+  sit4
+deleteAllPot 0
+  nCards=2
+  sit5
+  nCards=2
+  sit7
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+[2006/03/30 18:37:24]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:27]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:30]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:31]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:32]
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=3
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=0
+[2006/03/30 18:37:33]
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 4s )
+CardFactory::newFace( 14h )
+CardFactory::newFace( 13d )
+[2006/03/30 18:37:36]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:40]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:45]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:47]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:48]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:49]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:53]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:55]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:37:56]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:01]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:04]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:38:05]
+OnAnimAddBoard n=3
+CardFactory::newFace( 11h )
+[2006/03/30 18:38:06]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:15]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:20]
+MSG_TABLE_SUBSCR_ACTION
+hideAllPotUp 1
+deleteAllPot 1
+[2006/03/30 18:38:23]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:38:24]
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=4
+CardFactory::newFace( 8h )
+[2006/03/30 18:38:26]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:29]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:39]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:40]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+CardFactory::newFace( 14d )
+CardFactory::newFace( 8d )
+[2006/03/30 18:38:43]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:44]
+INDICATOR7 Empty
+[2006/03/30 18:38:45]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:38:46]
+MSG_TABLE_SUBSCR_ENDHAND
+[2006/03/30 18:38:49]
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+[2006/03/30 18:38:50]
+MSG_TABLE_SUBSCR_BEGINHAND
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467439635  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+[2006/03/30 18:38:52]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'p' 500
+ '_' 0
+ ' ' 0
+MSG_TABLE_ACTION 'p' 0x1F4 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+[2006/03/30 18:38:53]
+MSG_TABLE_SUBSCR_ACTION
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+MSG_TABLE_PLAYERCARDS 004702A4
+  sit0
+::: 9d
+  nCards=2
+::: 12c
+  sit2
+------ 004702A4
+  nCards=2
+CMainFrame::OnPlayerCards, myCards.changed=0
+  sit3
+myCards.changed=1
+  nCards=2
+  sit4
+  nCards=2
+  sit5
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+CardFactory::newFace( 9d )
+[2006/03/30 18:38:54]
+CardFactory::newFace( 12c )
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:38:55]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:38:56]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1000
+ '*' 'E' 2000, 99500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:38:57]
+CMainFrame::OnLButtonDown 651 498 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 649 498 004702A4
+Button 'C' selected
+MSG_TABLE_ACTION 'C' 0x3E8 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:38:58]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:00]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:01]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+INDICATOR1 Occupied
+[2006/03/30 18:39:02]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:39:03]
+AdvActionCheck::OnLButtonDown Call 10 004702A4
+Adv box[4] Checked 'C'
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1000
+ '*' 'E' 3000, 99500, 1000, 100
+AdvChoice found 'C' 1000
+MSG_TABLE_ACTION 'C' 0x3E8 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+[2006/03/30 18:39:04]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=3
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:39:05]
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 6s )
+CardFactory::newFace( 4d )
+CardFactory::newFace( 5d )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:39:09]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:39:12]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:13]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:39:14]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 5000
+ '*' 'E' 10000, 97500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:39:15]
+CMainFrame::OnLButtonDown 511 519 004702A4
+Button 'F' mouse down
+CMainFrame::OnLButtonUp 507 517 004702A4
+Button 'F' selected
+MSG_TABLE_ACTION 'F' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:39:16]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:17]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=3
+CardFactory::newFace( 4h )
+[2006/03/30 18:39:20]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:26]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:27]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:28]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:31]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:34]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:43]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:44]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:39:45]
+OnAnimAddBoard n=4
+CardFactory::newFace( 12d )
+[2006/03/30 18:39:47]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:39:51]
+INDICATOR7 Occupied
+INDICATOR6 Empty
+[2006/03/30 18:39:56]
+INDICATOR7 Empty
+[2006/03/30 18:40:05]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:06]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:14]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:16]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:18]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:19]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+[2006/03/30 18:40:22]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_ENDHAND
+Statistics info: 00001015
+[2006/03/30 18:40:23]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:26]
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+MSG_TABLE_SUBSCR_BEGINHAND
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467457407  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:30]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:31]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+  sit0
+  nCards=2
+  sit1
+  nCards=2
+  sit2
+  nCards=2
+  sit3
+  nCards=2
+  sit4
+  nCards=2
+  sit5
+  nCards=2
+MSG_TABLE_PLAYERCARDS 004702A4
+  sit8
+::: 6d
+  nCards=2
+::: 2c
+CMainFrame::AnimDealPlayerCards()
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CardFactory::newFace( 6d )
+[2006/03/30 18:40:32]
+CardFactory::newFace( 2c )
+[2006/03/30 18:40:33]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1000
+ '*' 'E' 2000, 97500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:40:34]
+CMainFrame::OnLButtonDown 590 510 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 590 510 004702A4
+Button 'C' selected
+MSG_TABLE_ACTION 'C' 0x3E8 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:36]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:38]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:40:39]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:40:42]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 2000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:40:45]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 2000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:40:47]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 2000
+ '*' 'E' 4000, 97500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:40:49]
+CMainFrame::OnLButtonDown 621 520 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 620 521 004702A4
+Button 'C' selected
+MSG_TABLE_ACTION 'C' 0x7D0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:51]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:40:52]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=3
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:40:53]
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 2h )
+CardFactory::newFace( 2d )
+CardFactory::newFace( 13d )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:40:58]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:41:03]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:41:06]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'B' 1000, 94500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:41:11]
+CMainFrame::OnLButtonDown 611 502 004702A4
+Button 'c' mouse down
+CMainFrame::OnLButtonUp 611 502 004702A4
+Button 'c' selected
+MSG_TABLE_ACTION 'c' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:13]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:17]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:41:22]
+MSG_TABLE_SUBSCR_MESSAGE2
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:41:29]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:41:32]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:33]
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 5000
+ '*' 'E' 10000, 94500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:41:36]
+CMainFrame::OnLButtonDown 698 510 004702A4
+Button 'E' mouse down
+CMainFrame::OnLButtonUp 698 510 004702A4
+Button 'E' selected
+MSG_TABLE_ACTION 'E' 0x2710 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:40]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:41]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:50]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:52]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:41:53]
+MSG_TABLE_SUBSCR_DEALBOARD
+OnAnimAddPot 6
+   nCards=1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=3
+CardFactory::newFace( 7c )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:41:56]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:41:57]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:41:58]
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'B' 1000, 84500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:42:01]
+CMainFrame::OnLButtonDown 707 493 004702A4
+Button 'B' mouse down
+CMainFrame::OnLButtonUp 708 496 004702A4
+Button 'B' selected
+MSG_TABLE_ACTION 'B' 0x2710 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:04]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:06]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 10000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:42:09]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 10000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:42:12]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 10000
+ '*' 'E' 30000, 84500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:42:15]
+CMainFrame::OnLButtonDown 748 499 004702A4
+Button 'E' mouse down
+CMainFrame::OnLButtonUp 748 499 004702A4
+Button 'E' selected
+MSG_TABLE_ACTION 'E' 0x14A14 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:26]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:31]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:32]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_MOVETOPOT
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:42:33]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 1
+deleteAllPot 1
+OnAnimAddBoard n=4
+CardFactory::newFace( 3d )
+[2006/03/30 18:42:36]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+[2006/03/30 18:42:38]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:40]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 1
+deleteAllPot 1
+[2006/03/30 18:42:41]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:43]
+INDICATOR7 Occupied
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_ENDHAND
+CMainFrame::AdvBetControls::off()
+Statistics info: 00001BD1
+[2006/03/30 18:42:46]
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+MSG_TABLE_SUBSCR_BEGINHAND
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467483702  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+[2006/03/30 18:42:47]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'P' 1000
+ ' ' 0
+MSG_TABLE_ACTION 'P' 0x3E8 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+MSG_TABLE_PLAYERCARDS 004702A4
+  sit0
+::: 3h
+  nCards=2
+::: 9s
+  sit1
+------ 004702A4
+  nCards=2
+CMainFrame::OnPlayerCards, myCards.changed=0
+  sit2
+myCards.changed=1
+  nCards=2
+  sit3
+  nCards=2
+  sit4
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+CardFactory::newFace( 3h )
+[2006/03/30 18:42:48]
+CardFactory::newFace( 9s )
+[2006/03/30 18:42:49]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:42:51]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:42:53]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:42:54]
+INDICATOR5 Empty
+[2006/03/30 18:42:56]
+AdvActionCheck::OnLButtonDown Check/Fold 004702A4
+Adv box[0] Checked 'cF'
+[2006/03/30 18:42:57]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 1
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:42:58]
+AdvActionCheck::OnLButtonDown Call 10 004702A4
+Adv box[4] Checked 'C'
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:42:59]
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1000
+ '*' 'E' 3000, 304500, 1000, 100
+AdvChoice found 'C' 1000
+MSG_TABLE_ACTION 'C' 0x3E8 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:02]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:07]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+[2006/03/30 18:43:08]
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=3
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+[2006/03/30 18:43:09]
+OnAnimAddBoard n=2
+CardFactory::newFace( 5s )
+CardFactory::newFace( 12c )
+CardFactory::newFace( 14h )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:43:10]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'c' 0
+ '*' 'B' 1000, 302500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:43:12]
+CMainFrame::OnLButtonDown 540 497 004702A4
+Button 'c' mouse down
+CMainFrame::OnLButtonUp 541 497 004702A4
+Button 'c' selected
+MSG_TABLE_ACTION 'c' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:16]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:43:20]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:21]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:43:22]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+[2006/03/30 18:43:23]
+box[4] 0
+ act 'C' 5000
+box[5] 0
+ act 'C' -1
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 5000
+ '*' 'E' 10000, 302500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:43:28]
+CMainFrame::OnLButtonDown 554 502 004702A4
+Button 'C' mouse down
+CMainFrame::OnLButtonUp 518 442 004702A4
+[2006/03/30 18:43:29]
+CMainFrame::OnLButtonDown 518 507 004702A4
+Button 'F' mouse down
+CMainFrame::OnLButtonUp 518 507 004702A4
+Button 'F' selected
+MSG_TABLE_ACTION 'F' 0x0 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+[2006/03/30 18:43:30]
+deleteAllPot 0
+OnAnimAddBoard n=3
+CardFactory::newFace( 11c )
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:43:32]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:36]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:41]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:42]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:45]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=1
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:43:46]
+OnAnimAddBoard n=4
+CardFactory::newFace( 4s )
+[2006/03/30 18:43:55]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:56]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:58]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:43:59]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+CardFactory::newFace( 7h )
+CardFactory::newFace( 7c )
+CardFactory::newFace( 12d )
+CardFactory::newFace( 6d )
+[2006/03/30 18:44:01]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:04]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_ENDHAND
+Statistics info: 00003015
+[2006/03/30 18:44:08]
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+MSG_TABLE_SUBSCR_BEGINHAND
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_REQUESTACTION 004702A4
+ 'p' 500
+ ' ' 0
+MSG_TABLE_ACTION 'p' 0x1F4 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467499030  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:09]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+  sit0
+  nCards=2
+  sit1
+  nCards=2
+  sit2
+  nCards=2
+  sit3
+  nCards=2
+  sit4
+  nCards=2
+  sit7
+MSG_TABLE_PLAYERCARDS 004702A4
+  nCards=2
+::: 4h
+  sit8
+::: 11c
+  nCards=2
+------ 004702A4
+CMainFrame::AnimDealPlayerCards()
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CardFactory::newFace( 4h )
+[2006/03/30 18:44:10]
+CardFactory::newFace( 11c )
+[2006/03/30 18:44:11]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 500
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:44:12]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1500
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:44:13]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:14]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1500
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:44:15]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1500
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:44:16]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1500
+box[5] 0
+ act 'C' -1
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1500
+ '*' 'E' 3000, 302500, 1000, 100
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+[2006/03/30 18:44:18]
+CMainFrame::OnLButtonDown 725 522 004702A4
+Button 'E' mouse down
+[2006/03/30 18:44:19]
+CMainFrame::OnLButtonUp 725 522 004702A4
+Button 'E' selected
+MSG_TABLE_ACTION 'E' 0x49DA4 posted
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:20]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:24]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:25]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:44:26]
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=3
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+[2006/03/30 18:44:27]
+OnAnimAddBoard n=2
+CardFactory::newFace( 5d )
+CardFactory::newFace( 5s )
+CardFactory::newFace( 12d )
+[2006/03/30 18:44:32]
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=1
+OnAnimAddBoard n=3
+CardFactory::newFace( 9c )
+[2006/03/30 18:44:35]
+MSG_TABLE_SUBSCR_DEALBOARD
+   nCards=1
+OnAnimAddBoard n=4
+CardFactory::newFace( 4c )
+[2006/03/30 18:44:38]
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+[2006/03/30 18:44:39]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:42]
+MSG_TABLE_SUBSCR_MOVEFROMPOT
+hideAllPotUp 0
+deleteAllPot 0
+MSG_TABLE_SUBSCR_ENDHAND
+CMainFrame::AdvBetControls::off()
+Statistics info: 00005BD1
+[2006/03/30 18:44:46]
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+MSG_TABLE_SUBSCR_BEGINHAND
+hideAllPotUp 0
+deleteAllPot 0
+OnTableData() round -3
+CMainFrame::AdvBetControls::on()
+OnBeginHand
+hideAllChipsBetDown()
+deleteAllChipsBet()
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+hideAllPotUp 0
+deleteAllPot 0
+hideAllPotUp 1
+deleteAllPot 1
+hideAllPotUp 2
+deleteAllPot 2
+Game     #4467506142  004702A4
+OnTableData() round -1
+hideAllChipsMoveDown()
+deleteAllChipsMove()
+hideAllChipsWonDown()
+deleteAllChipsWon()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:47]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:48]
+MSG_TABLE_PLAYERCARDS 004702A4
+MSG_TABLE_SUBSCR_DEALPLAYERCARDS
+::: 5c
+  sit0
+::: 13s
+  nCards=2
+------ 004702A4
+  sit1
+CMainFrame::OnPlayerCards, myCards.changed=0
+  nCards=2
+myCards.changed=1
+  sit2
+  nCards=2
+  sit3
+  nCards=2
+  sit4
+  nCards=2
+  sit7
+  nCards=2
+  sit8
+  nCards=2
+CMainFrame::AnimDealPlayerCards()
+[2006/03/30 18:44:49]
+CardFactory::newFace( 5c )
+[2006/03/30 18:44:50]
+CardFactory::newFace( 13s )
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:44:53]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 0
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:44:54]
+AdvActionCheck::OnLButtonDown Call 10 004702A4
+Adv box[4] Checked 'C'
+[2006/03/30 18:44:55]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 1
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:44:56]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 0
+ act 'F' -1
+box[4] 1
+ act 'C' 1000
+box[5] 0
+ act 'C' -1
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 1000
+ '*' 'E' 2000, 614000, 1000, 100
+AdvChoice found 'C' 1000
+MSG_TABLE_ACTION 'C' 0x3E8 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:44:59]
+MSG_TABLE_SUBSCR_ACTION
+[2006/03/30 18:45:01]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_SUBSCR_MOVETOPOT
+OnAnimAddPot 6
+MSG_TABLE_SUBSCR_DEALBOARD
+hideAllChipsMoveDown()
+   nCards=3
+deleteAllChipsMove()
+hideAllPotUp 0
+deleteAllPot 0
+[2006/03/30 18:45:02]
+OnAnimAddBoard n=0
+OnAnimAddBoard n=1
+OnAnimAddBoard n=2
+CardFactory::newFace( 10c )
+CardFactory::newFace( 3d )
+CardFactory::newFace( 9h )
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:45:04]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:45:05]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 0
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:45:07]
+AdvActionCheck::OnLButtonDown Check/Fold 004702A4
+Adv box[0] Checked 'cF'
+[2006/03/30 18:45:09]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[0] 1
+ act 'c' -1
+ act 'F' -1
+box[2] 0
+ act 'c' -1
+box[3] 0
+ act 'c' -1
+ act 'C' -1
+[2006/03/30 18:45:14]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 1
+ act 'F' -1
+box[4] 0
+ act 'C' 10000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:45:15]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+box[1] 1
+ act 'F' -1
+box[4] 0
+ act 'C' 10000
+box[5] 0
+ act 'C' -1
+[2006/03/30 18:45:16]
+MSG_TABLE_SUBSCR_ACTION
+MSG_TABLE_REQUESTACTION 004702A4
+ 'F' 0
+ 'C' 10000
+ '*' 'E' 20000, 613000, 1000, 100
+AdvChoice found 'F' 4294967295
+MSG_TABLE_ACTION 'F' 0x0 posted
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::config() 004702A4
+CMainFrame::AdvBetControls::on()
+CMainFrame::OnLButtonDown 721 21 004702A4
+MSG_TABLE_SUBSCR_ACTION
+CMainFrame::OnLButtonUp 721 21 004702A4
+MSG_TABLE_ADVANCED_BET 004702A4
+CMainFrame::AdvBetControls::off()
+CMainFrame::AdvBetControls::on()
+CMainFrame::AdvBetControls::config() 004702A4
+MSG_TABLE_HAND_RANK 004702A4
+MSG_TABLE_PLAYERCARDS 004702A4
+------ 004702A4
+CMainFrame::OnPlayerCards, myCards.changed=0
+myCards.changed=1
+CMainFrame::AdvBetControls::off()
+[2006/03/30 18:45:17]
+MSG_TABLE_LOGOUT posted
+CMainFrame::connPool.disconnect called
+[2006/03/30 18:45:18]
+CMainFrame::~CMainFrame()
+========= GlobalMemoryStatus:
+MemoryLoad 67
+TotalPhys 1F77B000,  AvailPhys 0A56D000,  TotalVirtual 7FFE0000,  AvailVirtual 7C3C5000, TotalPageFile 4CCE0000, AvailPageFile 3AB44000
+GDI objects 370, USER objects 87
+CommClientSubscriber::~CommClientSubscriber(): destroying non-unsubscribed subscription
+CommClientSubscriber::~CommClientSubscriber(): destroying non-unsubscribed subscription
+CommClientSubscriber::~CommClientSubscriber(): destroying non-unsubscribed subscription
+CommClientSubscriberPool: _COMM_MSGTYPE_SUBSCRIPTION_RESYNC: thisId=B1E04867 peerId=B1E03C06 size=193
+[2006/03/30 18:45:19]
+LobbyFrame::OnClose 1
+LobbyFrame::OnClose 2
+CommServerConnectionPool: _COMM_MSGTYPE_CONNECT_CLIENT_TRANSITDISCONNECT: thisId=B1E04001 peerId=B1E03C01
+CommClientConnection::~CommClientConnection(): destroying non-disconnected connection
+CommClientSubscriber::~CommClientSubscriber(): destroying non-unsubscribed subscription
+soundOff
+[2006/03/30 18:45:20]
+_CommTimerThread shutdown - exiting
+_CommTimerThread shutdown - exiting
+LocalThread #0 shutdown - exiting
+Closing socket 288
+LocalThread: objects terminated
+Error in SimpleReader stream: Error reading from socket: An established connection was aborted by the software in your host machine.   (10053=0x2745)
+SimpleReader thread terminated
+SimpleWriter thread terminated
+SimpleManager thread terminated
+========= GlobalMemoryStatus:
+MemoryLoad 66
+TotalPhys 1F77B000,  AvailPhys 0AA84000,  TotalVirtual 7FFE0000,  AvailVirtual 7CA60000, TotalPageFile 4CCE0000, AvailPageFile 3B0EA000
+GDI objects 59, USER objects 23

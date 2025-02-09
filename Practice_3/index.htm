@@ -1,0 +1,2267 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+	<meta name='generator' content='ExamView Pro 3.51 [WinNT 5.01 (2600)]'>
+	<title>BCIS443/543 Practice Test for Ch 9 and Ch 12</title>
+	<STYLE TYPE="text/css">
+		.spacer { line-height:.7em; }
+		.title { font-size:13pt; font-weight:bold; font-family:"Times New Roman", "Times", serif;color:#000000; }
+		.qnumber { font-size:12pt; font-family:"Times New Roman", "Times", serif;color:#000000; text-indent:12pt; text-align:right; }
+	</STYLE>
+<script language='JavaScript1.1'>
+<!--
+	// Copyright (c) 2000 FSCreations, Inc.
+	var listMap = '111111111111111111111111111111111';
+	var qtypeMap = '222222222222222222222222222222222';
+	var ansMap = new Array(33);
+	ansMap[0] = 'C';
+	ansMap[1] = 'D';
+	ansMap[2] = 'C';
+	ansMap[3] = 'D';
+	ansMap[4] = 'A';
+	ansMap[5] = 'B';
+	ansMap[6] = 'C';
+	ansMap[7] = 'D';
+	ansMap[8] = 'C';
+	ansMap[9] = 'B';
+	ansMap[10] = 'A';
+	ansMap[11] = 'D';
+	ansMap[12] = 'E';
+	ansMap[13] = 'E';
+	ansMap[14] = 'D';
+	ansMap[15] = 'D';
+	ansMap[16] = 'E';
+	ansMap[17] = 'D';
+	ansMap[18] = 'E';
+	ansMap[19] = 'E';
+	ansMap[20] = 'E';
+	ansMap[21] = 'C';
+	ansMap[22] = 'A';
+	ansMap[23] = 'B';
+	ansMap[24] = 'C';
+	ansMap[25] = 'C';
+	ansMap[26] = 'D';
+	ansMap[27] = 'D';
+	ansMap[28] = 'E';
+	ansMap[29] = 'C';
+	ansMap[30] = 'C';
+	ansMap[31] = 'A';
+	ansMap[32] = 'A';
+	function GradeIt(f)
+	{
+		var	studentName;
+		var	numBlank = 0;
+		var	numCorrect = 0;
+		var	numPossible = 0;
+		var	numSubjective = 0;
+		var	currentInstruction;
+		var	currentNarrative;
+		var	scorePercent;
+		var	index;
+		var	msg;
+		var	text;
+		var	i;
+		var	showNotes = true;
+		var	showRef = true;
+		var	numQuestions = 33;
+		var	numInstructions = 1;
+		var	numNarratives = 0;
+		var	prefixText = new Array(33);
+		var	numberText = new Array(33);
+		var	questionText = new Array(33);
+		var	answerText = new Array(33);
+		var	responseText = new Array(33);
+		var	notesText = new Array(33);
+		var	refText = new Array(33);
+		var	narrativeIndex = new Array(0);
+		var	narrativeText = new Array(0);
+		var	instructionIndex = new Array(1);
+		var	instructionText = new Array(1);
+		var listMap = '111111111111111111111111111111111';
+		var	titleString = 'BCIS443/543 Practice Test for Ch 9 and Ch 12';
+		var	titleStyle = 'font-size:13pt; font-weight:bold; font-family:"Times New Roman", "Times", serif;color:#000000;';
+		var	qnumberStyle = 'font-size:12pt; font-family:"Times New Roman", "Times", serif;color:#000000; text-indent:12pt; text-align:right;';
+		var	defaultStyle = 'font-size:12pt; font-family:"Times New Roman", "Times", serif;color:#000000;';
+		instructionText[0] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'><b>IMPORATNT: about 30% of the total multiple choice questions on the final are from ' +
+'Chapter 9 &amp; 12.<br></b></span></div><div><span style=\'font-family:"Times New Roman", "Times", ' +
+'serif; font-size:12pt; color:#000000\'><b><br></b></span></div><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'><b>Multiple ' +
+'Choice</b><br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'><i>Identify the letter of the choice that best completes the statement ' +
+'or answers the question.</i></span></div>';
+		instructionIndex[0] = 0;
+		numberText[0] = '1.';
+		questionText[0] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>You want to ' +
+'examine the current balance for account number 45689 located in the checkacc table.&nbsp; That ' +
+'transaction can be completed by using the SQL code:<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>SELECT ACC_NUM, ACC_BALANCE<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM CHECKACC<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACC_NUM = ' +
+'&quot;45689&quot;;</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times ' +
+'New Roman", "Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>SELECT ACC_NUM, ' +
+'ACC_BALANCE<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM CHECKACC<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACCNUM = ' +
+'\'45689\';</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>SELECT ACC_NUM, ' +
+'ACC_BALANCE<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM CHECKACC<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACC_NUM = ' +
+'\'45689\';</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>d.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>SELECT ACC_NUM, ' +
+'ACC_BALANCE<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM CHECKACC<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACC_NUM &lt;&gt; ' +
+'\'45689\';</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[0] = '<div class=\'default\'>C</div>';
+		notesText[0] = '';
+		refText[0] = '461';
+		numberText[1] = '2.';
+		questionText[1] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>Suppose that an account wishes to register the credit of 50 units of product X to ' +
+'customer Y in the amount of $350.&nbsp; The required transactions can be completed ' +
+'by:<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) reducing product X\'s quantity on ' +
+'hand (QQH) by 50<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) adding ' +
+'$350 to customer Y\'s accounts receivable.<br></span></div><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>Using SQL you would write:<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD-QQH = ' +
+'PROD_QQH - 50<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ' +
+'WHERE PROD_CODE = \'X\';<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>UPDATE ACCT_RECEIVABLE<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT_BALANCE = ACCT_BALANCE + ' +
+'350<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACCT_NUM ' +
+'= \'Y\';</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 50<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE = ' +
+'\'X\';<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>UPDATE ACCT_RECEIVABLE<br></span></div><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT-BALANCE = ' +
+'ACCT_BALANCE + 350<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACCT_NUM ' +
+'= \'Y\';</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 50<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE = ' +
+'\'X\';<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>UPDATE ACCT_RECEIVABLE;<br></span></div><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT_BALANCE = ' +
+'ACCT_BALANCE + 350<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACCT_NUM ' +
+'= \'Y\'</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>d.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 50<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE = ' +
+'\'X\';<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>UPDATE ACCT_RECEIVABLE<br></span></div><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT_BALANCE = ' +
+'ACCT_BALANCE + 350<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACCT_NUM ' +
+'= \'Y\';</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[1] = '<div class=\'default\'>D</div>';
+		notesText[1] = '';
+		refText[1] = '461';
+		numberText[2] = '3.';
+		questionText[2] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>For the following ' +
+'sale of 10 units of product X, the inventory UPDATE commands were written <br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = ' +
+'PROD_QQH + 10<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE ' +
+'= \'X\';</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH + 10<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE = ' +
+'\'X\';</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 10<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE = ' +
+'\'X\';</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>d.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>UPDATE PRODUCT<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 10<br></span></div><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE = ' +
+'\'X\'</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[2] = '<div class=\'default\'>C</div>';
+		notesText[2] = '';
+		refText[2] = '461';
+		numberText[3] = '4.';
+		questionText[3] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>All transactions ' +
+'properties must display <br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>atomicity, serializability, and durability.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>durability and isolation.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>serializability, durability, and isolation.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>atomicity, durability, serializability, and ' +
+'isolation.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[3] = '<div class=\'default\'>D</div>';
+		notesText[3] = '';
+		refText[3] = '462';
+		numberText[4] = '5.';
+		questionText[4] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'prevents the use of any tables in the database from one transaction while another transaction is ' +
+'being processed is called a <br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>database-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>table-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>page-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>row-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>field-level lock.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[4] = '<div class=\'default\'>A</div>';
+		notesText[4] = '';
+		refText[4] = '470';
+		numberText[5] = '6.';
+		questionText[5] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'locks the entire table preventing access to any row by a transaction while another transaction is ' +
+'using the table is referred to as a<br></span></div><div style=\'font-size:2pt\'></div><table ' +
+'cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>database-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>table-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>page-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>row-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>field-level lock.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[5] = '<div class=\'default\'>B</div>';
+		notesText[5] = '';
+		refText[5] = '470';
+		numberText[6] = '7.';
+		questionText[6] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'locks the entire diskpage is referred to as a<br></span></div><div style=\'font-size:2pt\'></div><table ' +
+'cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transaction-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>table-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>page-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>row-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>field-level lock.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[6] = '<div class=\'default\'>C</div>';
+		notesText[6] = '';
+		refText[6] = '471';
+		numberText[7] = '8.';
+		questionText[7] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'allows concurrent transactions to access different rows of the same table is known as ' +
+'a<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>database-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>table-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>page-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>row-level lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>field-level lock.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[7] = '<div class=\'default\'>D</div>';
+		notesText[7] = '';
+		refText[7] = '472';
+		numberText[8] = '9.';
+		questionText[8] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'has only two stages (0 &amp; 1) is known as a(n)<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>shared lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>exclusive lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>binary lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>two-phase locking.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlocks.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[8] = '<div class=\'default\'>C</div>';
+		notesText[8] = '';
+		refText[8] = '472';
+		numberText[9] = '10.';
+		questionText[9] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'specifically reserves access for the transaction that locked the object is known as ' +
+'a(n)<br></span></div><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'> </span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>shared lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>exclusive lo.ck</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>binary lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>two-phase lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlocks.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[9] = '<div class=\'default\'>B</div>';
+		notesText[9] = '';
+		refText[9] = '473';
+		numberText[10] = '11.';
+		questionText[10] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'exists when concurrent transactions are granted read access on the basis of a common lock is known as ' +
+'a(n)<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>shared lock</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>exclusive lock</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>binary lock</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>two-phase lock</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlock</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[10] = '<div class=\'default\'>A</div>';
+		notesText[10] = '';
+		refText[10] = '473';
+		numberText[11] = '12.';
+		questionText[11] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A lock that ' +
+'defines how transactions acquire and relinquish locks is known as a(n)<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>shared lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>exclusive lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>binary lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>two-phase lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlocks.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[11] = '<div class=\'default\'>D</div>';
+		notesText[11] = '';
+		refText[11] = '474';
+		numberText[12] = '13.';
+		questionText[12] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A condition ' +
+'that occurs when two transactions wait for each other to unlock data is known as ' +
+'a(n)<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>shared lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>exclusive lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>binary lock.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>two-phase lock.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlocks.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[12] = '<div class=\'default\'>E</div>';
+		notesText[12] = '';
+		refText[12] = '475';
+		numberText[13] = '14.';
+		questionText[13] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The two-phase ' +
+'locking protocol is governed by the following rules<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>two transactions can have conflicting locks.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>no unlock operation can precede a lock operation in a different ' +
+'transaction.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>no data are ' +
+'affected until all locks are released.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>all of the above</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>none of the above</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[13] = '<div class=\'default\'>E</div>';
+		notesText[13] = '';
+		refText[13] = '474';
+		numberText[14] = '15.';
+		questionText[14] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The techniques ' +
+'to control deadlocks are<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlock prevention.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlock detection.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>deadlock avoidance.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>all of the above.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>none of the above.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[14] = '<div class=\'default\'>D</div>';
+		notesText[14] = '';
+		refText[14] = '476';
+		numberText[15] = '16.';
+		questionText[15] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The levels ' +
+'of backup are<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>full.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>differential.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transaction log.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>all of the above.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>none of the above.</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[15] = '<div class=\'default\'>D</div>';
+		notesText[15] = '';
+		refText[15] = '477';
+		numberText[16] = '17.';
+		questionText[16] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The general ' +
+'forces that drive the move to client/server computing are<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>the changing business environment and the need for enterprise ' +
+'data.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>the demand for ' +
+'end-user productivity gains based on the efficient use of data resources.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>advanced artificial intelligent techniques</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>none of the above</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a and b</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[16] = '<div class=\'default\'>E</div>';
+		notesText[16] = '';
+		refText[16] = '576';
+		numberText[17] = '18.';
+		questionText[17] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>Client/server allows the end user to<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>focus on building systems that are independent of any hardware or ' +
+'software platform.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times ' +
+'New Roman", "Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>optimize the ' +
+'distribution of the processing activities among the unique computer ' +
+'platforms.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>make use of a ' +
+'combination of techniques, methodologies, and specialized tools to develop systems that are ' +
+'user-friendly and cost effective.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a and c</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a, b and c</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[17] = '<div class=\'default\'>D</div>';
+		notesText[17] = '';
+		refText[17] = '577';
+		numberText[18] = '19.';
+		questionText[18] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The desirable ' +
+'client components include a<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>powerful hardware and an operating system capable of ' +
+'multitasking.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>graphical use ' +
+'interface and communications capability.</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>DOS </span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>Apple computer</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a and b</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[18] = '<div class=\'default\'>E</div>';
+		notesText[18] = '';
+		refText[18] = '582';
+		numberText[19] = '20.';
+		questionText[19] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>A database ' +
+'server to be used in a network with a large number of clients will require minimum characteristics ' +
+'such as<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>fast CPU or multiprocessor with fault-tolerant ' +
+'capabilities.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>expandability of ' +
+'CPU, memory, disk and peripherals, and bus support for multiple add-on ' +
+'boards.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>Personal Oracle</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>Multi-media capability</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a and b</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[19] = '<div class=\'default\'>E</div>';
+		notesText[19] = '';
+		refText[19] = '585';
+		numberText[20] = '21.';
+		questionText[20] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The client/server ' +
+'architectural principles for process distribution are translated into the following server process ' +
+'benefits:<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>location independence</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>scalability, interoperability, and ' +
+'integration.</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>resource optimization.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>b,c only</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a,b,c</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[20] = '<div class=\'default\'>E</div>';
+		notesText[20] = '';
+		refText[20] = '585';
+		numberText[21] = '22.';
+		questionText[21] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The use of ' +
+'database middleware yields<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network independence.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>database server independence.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a and b</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a only</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>b only</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[21] = '<div class=\'default\'>C</div>';
+		notesText[21] = '';
+		refText[21] = '586';
+		numberText[22] = '23.';
+		questionText[22] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The OSI network ' +
+'reference model is the end user applications program, where the Client: front-end application and the ' +
+'Server: back-end application, is referred to as the ______ layer.<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>application</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>presentation</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>session</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transport</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[22] = '<div class=\'default\'>A</div>';
+		notesText[22] = '';
+		refText[22] = '587';
+		numberText[23] = '24.';
+		questionText[23] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The OSI network ' +
+'reference model that provides formatting functions for the application layer protocol conversion, ' +
+'compression, and encoding is referred to as the _______ layer.<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>application</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>presentation</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>session</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transport</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[23] = '<div class=\'default\'>B</div>';
+		notesText[23] = '';
+		refText[23] = '587';
+		numberText[24] = '25.';
+		questionText[24] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The OSI network ' +
+'reference model that establishes and controls communication between applications, ensures security, ' +
+'delivery, and communications recovery is referred to as the _______ layer.<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>application</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>presentation</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>session</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transport</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[24] = '<div class=\'default\'>C</div>';
+		notesText[24] = '';
+		refText[24] = '587';
+		numberText[25] = '26.';
+		questionText[25] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The OSI network ' +
+'reference model that provides error recognition and recovery, insuring that all data are properly ' +
+'delivered, and adds transport-layer-specific ID is referred to as the _______ ' +
+'layer.<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>presentation</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>session</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transport</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>data-link</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[25] = '<div class=\'default\'>C</div>';
+		notesText[25] = '';
+		refText[25] = '587';
+		numberText[26] = '27.';
+		questionText[26] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The OSI network ' +
+'reference model that provides end-to-end routing of packets and splits long messages into smaller ' +
+'units is referred to as the _______ layer.<br></span></div><div style=\'font-size:2pt\'></div><table ' +
+'cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>presentation</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>session</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transport</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>data-link</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[26] = '<div class=\'default\'>D</div>';
+		notesText[26] = '';
+		refText[26] = '587';
+		numberText[27] = '28.';
+		questionText[27] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The OSI network ' +
+'reference model that creates &quot;frames&quot; for transmission and controls the shared access to ' +
+'the network physical medium, including correction is referred to as the _______ ' +
+'layer.<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>session</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transport</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>data-link</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>physical</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[27] = '<div class=\'default\'>D</div>';
+		notesText[27] = '';
+		refText[27] = '587';
+		numberText[28] = '29.';
+		questionText[28] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>The OSI network ' +
+'reference model that provides standards dealing with the electrical details of the transmission and ' +
+'physically transmits frames of data through a cable or other media is referred to as the _______ ' +
+'layer.<br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>session</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>transport</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>network</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>data-link</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>physical</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[28] = '<div class=\'default\'>E</div>';
+		notesText[28] = '';
+		refText[28] = '587';
+		numberText[29] = '30.';
+		questionText[29] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>To function ' +
+'properly, the client/server DBMS must be able to<br></span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>provide transparent data access to multiple and heterogeneous clients ' +
+'and allow client requests to the database server over the network.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>process client data requests at the local server, and send the SQL ' +
+'results to all the clients over the network.</span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a only</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>b only </span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>e.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>a and b</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'95%\' style=\'width:405pt; padding:0\'></td></tr></table>';
+		answerText[29] = '<div class=\'default\'>C</div>';
+		notesText[29] = '';
+		refText[29] = '597';
+		numberText[30] = '31.';
+		questionText[30] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>_____________ occur when a transaction calculates some summary functions over a set of ' +
+'data while other transactions are updating the data.</span></div><div ' +
+'style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>Lost updates</span></div></td><td><div><span style=\'font-family:"Times ' +
+'New Roman", "Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>Inconsistent ' +
+'retrievals</span></div></td></tr><tr valign=\'baseline\'><td><div><span style=\'font-family:"Times New ' +
+'Roman", "Times", serif; font-size:12pt; color:#000000\'>b.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000\'>Uncommitted ' +
+'data</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>Concurrent controls</span></div></td></tr><tr ' +
+'height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; padding:0\'></td><td width=\'46%\' style=\'width:193pt; ' +
+'padding:0\'></td><td width=\'4%\' style=\'width:18pt; padding:0\'></td><td width=\'45%\' style=\'width:193pt; ' +
+'padding:0\'></td></tr></table>';
+		answerText[30] = '<div class=\'default\'>C</div>';
+		notesText[30] = '';
+		refText[30] = 'pp. 469';
+		numberText[31] = '32.';
+		questionText[31] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'><br></span></div><div style=\'margin-left:21pt;text-indent:-14pt\'><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>Client/server tools provide the ability to completely ' +
+'migrate applications among different platforms. That is, these tools provide applications ' +
+'____________.</span><span style=\'font-family:"Times New Roman", "Times", serif; font-size:10pt; ' +
+'color:#000000\'><br></span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:10pt; color:#000000\'>portability</span></div></td><td><div><span style=\'font-family:"Times ' +
+'New Roman", "Times", serif; font-size:12pt; color:#000000\'>c.</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:10pt; ' +
+'color:#000000\'>expansivity</span></div></td></tr><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:10pt; color:#000000\'>transferability</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:10pt; color:#000000\'>scalability</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'46%\' style=\'width:193pt; padding:0\'></td><td width=\'4%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'45%\' style=\'width:193pt; padding:0\'></td></tr></table>';
+		answerText[31] = '<div class=\'default\'>A</div>';
+		notesText[31] = '';
+		refText[31] = '';
+		numberText[32] = '33.';
+		questionText[32] = '<div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'><br></span></div><div style=\'margin-left:21pt;text-indent:-14pt\'><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:12pt; color:#000000\'>What really defines client/server computing is ' +
+'____________. </span></div><div style=\'font-size:2pt\'></div><table cellpadding=\'0\' cellspacing=\'0\' width=\'83%\' border=\'0\'><tr valign=\'baseline\'><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>a.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:10pt; color:#000000\'>universal standards</span></div></td><td><div><span ' +
+'style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>c.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:10pt; color:#000000\'>the network protocols </span></div></td></tr><tr ' +
+'valign=\'baseline\'><td><div><span style=\'font-family:"Times New Roman", "Times", serif; font-size:12pt; ' +
+'color:#000000\'>b.</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:10pt; color:#000000\'>the type of communications middleware that is ' +
+'utilized</span></div></td><td><div><span style=\'font-family:"Times New Roman", "Times", serif; ' +
+'font-size:12pt; color:#000000\'>d.</span></div></td><td><div><span style=\'font-family:"Times New Roman", ' +
+'"Times", serif; font-size:10pt; color:#000000\'>the splitting of the application processing, ' +
+'independent of the network protocols used</span></div></td></tr><tr height=\'0\' style=\'border:none\'><td width=\'5%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'46%\' style=\'width:193pt; padding:0\'></td><td width=\'4%\' style=\'width:18pt; ' +
+'padding:0\'></td><td width=\'45%\' style=\'width:193pt; padding:0\'></td></tr></table>';
+		answerText[32] = '<div class=\'default\'>A</div>';
+		notesText[32] = '';
+		refText[32] = '';
+
+		studentName = StripSpaces(f.student_name.value);
+
+		FixMTF(f);
+		index = 0;
+		for (i=0; i < f.length; ++i) {
+			if (f.elements[i].name.indexOf(":") > 0) {
+				text = StripSpaces(GetResponse(index, f.elements[i]));
+				if (text.length == 0)
+					++numBlank;
+				++index;
+			}
+		}
+
+		if (studentName == "") {
+			alert("Student name cannot be blank.");
+			return(false);
+		}
+
+		if (numBlank > 0) {
+			if (numBlank == 1)
+				msg = "1 question";
+			else
+				msg = numBlank + " questions";
+			if (!confirm("You have not answered " + msg +
+				"  Are you sure you want to end the test?"))
+				return(false);
+		}
+
+		index = 0;
+		for (i=0; i < f.length; ++i) {
+			if (f.elements[i].name.indexOf(":") > 0) {
+				text = GetResponse(index, f.elements[i]);
+				if (ansMap[index] == "") {
+					prefixText[index] = "<img src='index_files/nograde.gif' align='middle'>";
+					++numSubjective;
+				} else {
+					isCorrect = ScoreAnswer(index, text);
+					if (isCorrect)
+						++numCorrect;
+					++numPossible;
+
+					prefixText[index] = BuildPrefixText(index, text, isCorrect);
+				}
+				responseText[index] = TranslateHtmlString(text);
+				++index;
+			}
+		}
+
+		if (showNotes) {
+			for (i=0; i < numQuestions; ++i) {
+				if (qtypeMap.charAt(i) == "2")
+					notesText[i] = FixMCNotes(notesText[i], responseText[i]);
+			}
+		}
+
+		if (numPossible > 0)
+			scorePercent = Math.round(100.0 * numCorrect / numPossible);
+		else
+			scorePercent = 0;
+
+		studentName = TranslateHtmlString(studentName);
+
+		document.writeln("<html>\n<head>");
+		document.writeln("<title>" + titleString + "</title>");
+		document.writeln("<style type='text/css'>");
+		document.writeln("\t.qnumber { " + qnumberStyle + " }");
+		document.writeln("\t.title { " + titleStyle + " }");
+		document.writeln("\t.default { " + defaultStyle + " }");
+		document.writeln("\t.spacer { line-height:.7em; }");
+		document.writeln("</style>\n</head>");
+		document.writeln("<body bgcolor='#FFFFFF' style='background-image:url(index_files/header.gif); background-repeat:no-repeat'>");
+		document.writeln("<b>Name:</b> " + studentName + "<br>");
+		document.write("<b>Score:</b> " + numCorrect + " / " + numPossible +
+				" (" + scorePercent + "%)");
+		if (numSubjective > 0) {
+			document.write("&nbsp;&nbsp;&nbsp;&nbsp; [" + numSubjective + " subjective ");
+			if (numSubjective == 1)
+				document.write("question");
+			else
+				document.write("questions");
+			document.write(" not graded]");
+		}
+		document.writeln("<br><br>");
+		document.writeln("<div class='title'>" + titleString + "</div><br>");
+		document.writeln("<table align='left' width='100%' border=0 cellpadding=0 cellspacing=0>");
+
+		currentInstruction = 0;
+		currentNarrative = 0;
+		for (i=0; i < numQuestions; ++i) {
+			if (currentInstruction < numInstructions) {
+				if (instructionIndex[currentInstruction] == i) {
+					document.writeln("<tr><td colspan='3'><br>");
+					document.writeln(instructionText[currentInstruction]);
+					document.writeln("<div class='spacer'>&nbsp;</div>");
+					document.writeln("</td></tr>");
+					++currentInstruction;
+				}
+			}
+
+			if (currentNarrative < numNarratives) {
+				if (narrativeIndex[currentNarrative] == i) {
+					document.writeln("<tr><td></td><td></td><td>");
+					document.writeln(narrativeText[currentNarrative]);
+					document.writeln("<div class='spacer'>&nbsp;</div>");
+					document.writeln("</td></tr>");
+					++currentNarrative;
+				}
+			}
+
+			document.writeln("<tr valign='baseline'>");
+			document.writeln("<td>" + prefixText[i] + "</td>");
+			document.writeln("<td><p class='qnumber'>" + numberText[i] + "&nbsp;</p></td>");
+			document.writeln("<td width='100%'>" + questionText[i]);
+			document.writeln("<div style='font-size:2pt'></div><br>");
+			document.writeln("<table valign='baseline' cellpadding=0 cellspacing=0 border=0>");
+			if (listMap.charAt(i) != "1") {
+				document.writeln("<tr valign='baseline'><td><p class='default'><b>RESPONSE:&nbsp;</b></p></td>");
+				document.writeln("<td><p class='default'>" + responseText[i] + "</p></td></tr>");
+			}
+			document.writeln("<tr valign='baseline'><td><p class='default'><b>ANSWER:&nbsp;</b></p></td>");
+			document.writeln("<td>" + answerText[i] + "</td></tr>");
+			if (showNotes) {
+				document.writeln("<tr valign='baseline'><td><p class='default'><b>NOTES:&nbsp;</b></p></td>");
+				document.writeln("<td>" + notesText[i] + "</td></tr>");
+			}
+			if (showRef) {
+				document.writeln("<tr valign='baseline'><td><p class='default'><b>REF:&nbsp;</b></p></td>");
+				document.writeln("<td>" + refText[i] + "</td></tr>");
+			}
+			document.writeln("</table>");
+			document.writeln("<div class='spacer'>&nbsp;</div></td></tr>");
+		}
+
+		document.writeln("</table>");
+		document.writeln("<br clear='all'>");
+		document.writeln("<table align='left' width='100%' cellpadding=0 cellspacing=0 border=0>");
+		document.writeln("<tr><td colspan='2' bgcolor='#000000'><div style='font-size:1pt'>&nbsp;</div></td></tr>");
+		document.write("<tr><td valign='top'><a href='" + window.location.href + "'>");
+		document.writeln("<img src='index_files/retake.gif' border=0 alt='Retake Test'></a></td>");
+		document.writeln("<td valign='top' align='right'>");
+		document.write("<a href='http://www.examview.com/studytip.html'>");
+		document.writeln("<img src='index_files/help.gif' border=0 alt='Help'></a>");
+		document.writeln("</td></tr></table>");
+
+		document.writeln("</body>");
+		document.writeln("</html>");
+		document.close();
+
+		return(false);
+	}
+
+	function GetResponse(answerIndex, answer)
+	{
+		var	listIndex;
+		var	responseText;
+
+		if (listMap.charAt(answerIndex) == "1") {
+			listIndex = answer.selectedIndex;
+			responseText = answer.options[listIndex].text;
+		} else
+			responseText = answer.value;
+
+		return(responseText);
+	}
+
+	function ScoreAnswer(answerIndex, responseText)
+	{
+		var	listIndex;
+		var	answerText;
+
+		answerText = ansMap[answerIndex];
+		if (qtypeMap.charAt(answerIndex) == "4")
+			return(NumericCompare(responseText, answerText));
+		else if (qtypeMap.charAt(answerIndex) == "5")
+			return(MultiCompare(responseText, answerText));
+		else if (responseText.toUpperCase() == answerText.toUpperCase())
+			return(true);
+		else
+			return(false);
+	}
+
+	function BuildPrefixText(answerIndex, responseText, isCorrect)
+	{
+		var	text;
+		var	listIndex;
+
+		text = "<pre>"
+		if (isCorrect)
+			text += "<img src='index_files/correct.gif' align='middle'>"
+		else
+			text += "<img src='index_files/wrong.gif' align='middle'>"
+
+		if (listMap.charAt(answerIndex) == "1") {
+			if (responseText.length == 0)
+				responseText = " ";
+			text += "<u> " + responseText + " </u>";
+		}
+
+		text += "</pre>"
+		return(text);
+	}
+
+	function StripSpaces(s)
+	{
+		var	len;
+		var	i;
+
+		len = s.length;
+		for (i=len - 1; i >= 0 && s.charAt(i) == " "; --i)
+			len = i;
+
+		if (len == 0)
+			s = "";
+		else if (len != s.length)
+			s = s.substring(0, len);
+
+		return(s);
+	}
+
+	function TranslateHtmlString(text)
+	{
+		var	newText;
+		var	replaceString;
+		var	position;
+		var	length;
+		var	breakPos;
+		var	skipExtra;
+		var	i;
+
+		newText = "";
+		position = 0;
+		length = text.length;
+		while (position < length) {
+			skipExtra = 0;
+			breakPos = -1;
+			for (i=position; i < length && breakPos < 0; ++i) {
+				switch(text.charAt(i)) {
+					case '>':
+						replaceString = "&gt;";
+						breakPos = i;
+						break;
+					case '<':
+						replaceString = "&lt;";
+						breakPos = i;
+						break;
+					case '&':
+						replaceString = "&amp;";
+						breakPos = i;
+						break;
+					case '\r':
+						if ((i + 1) < length && text.charAt(i + 1) == '\n')
+							skipExtra = 1;
+						replaceString = "<br>";
+						breakPos = i;
+						break;
+					case '\n':
+						replaceString = "<br>";
+						breakPos = i;
+						break;
+					case ' ':
+						if ((i + 1 < length) && text.charAt(i + 1) == ' ') {
+							replaceString = "&nbsp;";
+							breakPos = i;
+						}
+						break;
+				}
+			}
+
+			if (breakPos < 0) {
+				newText += text.substring(position, length);
+				position = length;
+			} else {
+				if (breakPos > position)
+					newText += text.substring(position, breakPos);
+				newText += replaceString;
+				position = breakPos + 1 + skipExtra;
+			}
+		}
+
+		return(newText);
+	}
+
+	function FixMCNotes(notesText, studentText)
+	{
+		var	displayText;
+		var	searchText;
+		var	upperNotes;
+		var	charCode;
+		var	startIndex;
+		var	endIndex;
+
+		displayText = "";
+		if (studentText.length > 0 && notesText.length > 0) {
+			upperNotes = notesText.toUpperCase();
+			studentText = studentText.toUpperCase();
+			charCode = studentText.charCodeAt(0);
+			searchText = "/" + String.fromCharCode(charCode) + "/";
+			startIndex = upperNotes.indexOf(searchText);
+			if (startIndex >= 0) {
+				startIndex += searchText.length;
+				searchText = "/" + String.fromCharCode(charCode + 1) + "/";
+				endIndex = upperNotes.indexOf(searchText, startIndex);
+				if (endIndex < startIndex)
+					endIndex = notesText.length;
+
+				displayText = notesText.substring(startIndex, endIndex);
+			} else if (notesText.charAt(0) != "/")
+				displayText = notesText;
+		}
+
+		return(displayText);
+	}
+
+	function NumericCompare(s1, s2)
+	{
+		var	s1Sign;
+		var	s2Sign;
+		var	tempString;
+		var	decimalCount;
+		var	decimalPos;
+		var	numToDelete;
+		var	len;
+		var	ch;
+		var	i;
+
+		s1.toUpperCase();
+		s2.toUpperCase();
+		if (s1 == s2)
+			return(true);
+		else {
+			s1Sign = 1;
+			s2Sign = 1;
+
+			tempString = "";
+			for (i=0; i < s1.length; ++i) {
+				ch = s1.charAt(i);
+				if (ch == "-" && tempString.length == 0)
+					s1Sign = -1;
+				else if ((ch >= "0" && ch <= "9") || ch == ".")
+					tempString += ch;
+			}
+
+			s1 = tempString;
+
+			decimalCount = 0;
+			decimalPos = -1;
+			for (i=0; i < s1.length; ++i) {
+				if (s1.charAt(i) == '.') {
+					++decimalCount;
+					if (decimalPos < 0)
+						decimalPos = i;
+				}
+			}
+
+			if (decimalCount == 1 && decimalPos >= 0) {
+				len = s1.length;
+				for (i=len - 1; i >= decimalPos; --i) {
+					if (i == decimalPos || s1.charAt(i) == '0')
+						len = i;
+					else
+						break;
+				}
+
+				if (len < s1.length)
+					s1 = s1.substring(0, len);
+				if (s1.length == 0)
+					s1 = "0";
+			}
+
+			numToDelete = 0;
+			for (i=0; i < s1.length; ++i) {
+				if (s1.charAt(i) == "0")
+					++numToDelete;
+				else
+					break;
+			}
+
+			if (numToDelete > 0) {
+				if (numToDelete == s1.length)
+					--numToDelete;
+				if (numToDelete > 0)
+					s1 = s1.substring(numToDelete);
+			}
+
+			/////////////////////////////////////////////
+			tempString = "";
+			for (i=0; i < s2.length; ++i) {
+				ch = s2.charAt(i);
+				if (ch == "-" && tempString.length == 0)
+					s2Sign = -1;
+				else if ((ch >= "0" && ch <= "9") || ch == ".")
+					tempString += ch;
+			}
+
+			s2 = tempString;
+
+			decimalCount = 0;
+			decimalPos = -1;
+			for (i=0; i < s2.length; ++i) {
+				if (s2.charAt(i) == '.') {
+					++decimalCount;
+					if (decimalPos < 0)
+						decimalPos = i;
+				}
+			}
+
+			if (decimalCount == 1 && decimalPos >= 0) {
+				len = s2.length;
+				for (i=len - 1; i >= decimalPos; --i) {
+					if (i == decimalPos || s2.charAt(i) == '0')
+						len = i;
+					else
+						break;
+				}
+
+				if (len < s2.length)
+					s2 = s2.substring(0, len);
+				if (s2.length == 0)
+					s2 = "0";
+			}
+
+			numToDelete = 0;
+			for (i=0; i < s2.length; ++i) {
+				if (s2.charAt(i) == "0")
+					++numToDelete;
+				else
+					break;
+			}
+
+			if (numToDelete > 0) {
+				if (numToDelete == s2.length)
+					--numToDelete;
+				if (numToDelete > 0)
+					s2 = s2.substring(numToDelete);
+			}
+
+			if (s1Sign == s2Sign && s1 == s2)
+				return(true);
+		}
+
+		return(false);
+	}
+
+	function MultiCompare(responseText, answerText)
+	{
+		var	startIndex;
+		var	endIndex;
+		var	partialText;
+
+		responseText = responseText.toUpperCase();
+		answerText = answerText.toUpperCase();
+
+		startIndex = 0;
+		do {
+			endIndex = answerText.indexOf("\r", startIndex);
+			if (endIndex < 0)
+				partialText = answerText.substring(startIndex);
+			else
+				partialText = answerText.substring(startIndex, endIndex);
+
+			if (responseText == partialText)
+				return(true);
+
+			startIndex = endIndex + 1;
+		} while (endIndex > 0);
+
+		return(false);
+	}
+
+	function FixMTF(f)
+	{
+		var	text;
+		var	letter;
+		var	theList;
+		var	listIndex;
+		var	number;
+		var	i;
+
+		for (i=0; i < f.length; ++i) {
+			if (f.elements[i].name.indexOf("MTF:") == 0) {
+				number = parseInt(f.elements[i].name.substring(4), 10);
+
+				theList = f["MTF-" + number + "-1"];
+				if (theList) {
+					listIndex = theList.selectedIndex;
+					letter = theList.options[listIndex].text;
+				} else
+					letter = "";
+
+				text = StripSpaces(f["MTF-" + number + "-2"].value);
+				if (text == "")
+					f.elements[i].value = letter;
+				else
+					f.elements[i].value = letter + "," + text;
+			}
+		}
+	}
+
+	function AllowReset()
+	{
+		return(window.confirm("Do you want to clear all of your answers?"));
+	}
+
+// -->
+</script>
+</head>
+<body onResize='if(document.layers && navigator.appVersion.indexOf("Win") < 0){history.go(0);}'
+bgcolor='#FFFFFF' style='background-image:url(index_files/header.gif); background-repeat:no-repeat'>
+<noscript>
+	<h3><font color='#FF0000'>Javascript not enabled</font></h3>
+</noscript>
+<script language='JavaScript'>
+<!--
+if (navigator.appName.indexOf("Netscape") >= 0) {
+	if (parseInt(navigator.appVersion.charAt(0)) < 4)
+		alert("This document requires Netscape Navigator version 4.0 or later.");
+} else if (navigator.appName.indexOf("Explorer") >= 0) {
+	if (parseInt(navigator.appVersion.charAt(0)) < 4)
+		alert("This document requires Internet Explorer version 4.0 or later.");
+}
+// -->
+</script>
+<form name='TestForm' onReset='return(AllowReset(this))'>
+<table align='left' width='100%' border=0 cellspacing=0>
+    <tr valign='top'>
+	<td>
+	    <div class='headerspacer'>&nbsp;</div>
+	    <b>Name:</b>&nbsp;<input type='text' name='student_name' size='30'><br>
+	    <div class='spacer'>&nbsp;</div>
+	    <br>
+	    <p class="title">IS443/543 Practice Test for Ch 7,8 and Ch 10</p>
+	</td>
+    </tr>
+</table>
+<br clear='all'>
+<table align='left' width='100%' border=0 cellpadding=0 cellspacing=0>
+<!-- BEGIN: INSTRUCTION -->
+<tr valign='top'>
+	<td colspan='3'><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'><b><br></b></span></div><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'><b><br></b></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'><b>Multiple
+Choice</b><br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'><i>Identify the letter of the choice that best completes the statement
+or answers the question.</i></span></div>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: INSTRUCTION -->
+<!-- BEGIN: QUESTION -62821:35 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:1' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>1.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>You
+want to examine the current balance for account number 45689 located in the checkacc table.&nbsp;
+That transaction can be completed by using the SQL code:<br></span></div><div
+style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%' border='0'><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>SELECT ACC_NUM,
+ACC_BALANCE<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM
+CHECKACC<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACC_NUM =
+&quot;45689&quot;;</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>SELECT ACC_NUM, ACC_BALANCE<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM CHECKACC<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACCNUM =
+'45689';</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>c.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>SELECT ACC_NUM, ACC_BALANCE<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM CHECKACC<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACC_NUM =
+'45689';</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>SELECT ACC_NUM, ACC_BALANCE<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FROM CHECKACC<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE ACC_NUM &lt;&gt;
+'45689';</span></div></td></tr><tr height='0' style='border:none'><td width='5%' style='width:18pt;
+padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:35 -->
+<!-- BEGIN: QUESTION -62821:36 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:2' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>2.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>Suppose that an account wishes to register the credit of 50 units of product X to
+customer Y in the amount of $350.&nbsp; The required transactions can be completed
+by:<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) reducing product X's
+quantity on hand (QQH) by 50<br></span></div><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) adding $350 to
+customer Y's accounts receivable.<br></span></div><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>Using SQL you would write:<br></span></div><div
+style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%' border='0'><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>UPDATE
+PRODUCT<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD-QQH = PROD_QQH -
+50<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X';<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>UPDATE ACCT_RECEIVABLE<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT_BALANCE = ACCT_BALANCE +
+350<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE
+ACCT_NUM = 'Y';</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>UPDATE PRODUCT<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 50<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X';<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>UPDATE ACCT_RECEIVABLE<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT-BALANCE = ACCT_BALANCE +
+350<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE
+ACCT_NUM = 'Y';</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>c.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>UPDATE PRODUCT<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 50<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X';<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>UPDATE ACCT_RECEIVABLE;<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT_BALANCE = ACCT_BALANCE +
+350<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE
+ACCT_NUM = 'Y'</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>UPDATE PRODUCT<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH - 50<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X';<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>UPDATE ACCT_RECEIVABLE<br></span></div><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SET ACCT_BALANCE = ACCT_BALANCE +
+350<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE
+ACCT_NUM = 'Y';</span></div></td></tr><tr height='0' style='border:none'><td width='5%'
+style='width:18pt; padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:36 -->
+<!-- BEGIN: QUESTION -62821:37 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:3' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>3.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>For
+the following sale of 10 units of product X, the inventory UPDATE commands were written
+<br></span></div><div style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%'
+border='0'><tr valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>UPDATE
+PRODUCT<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH +
+10<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X';</span></div></td></tr><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>b.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>UPDATE
+PRODUCT<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH +
+10<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X';</span></div></td></tr><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>UPDATE
+PRODUCT<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH -
+10<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X';</span></div></td></tr><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>d.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>UPDATE
+PRODUCT<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp; SET PROD_QQH = PROD_QQH -
+10<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WHERE PROD_CODE =
+'X'</span></div></td></tr><tr height='0' style='border:none'><td width='5%' style='width:18pt;
+padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:37 -->
+<!-- BEGIN: QUESTION -62821:38 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:4' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>4.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>All
+transactions properties must display <br></span></div><div style='font-size:2pt'></div><table
+cellpadding='0' cellspacing='0' width='83%' border='0'><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>a.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>atomicity, serializability, and
+durability.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>durability and isolation.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>serializability,
+durability, and isolation.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>atomicity, durability, serializability, and
+isolation.</span></div></td></tr><tr height='0' style='border:none'><td width='5%' style='width:18pt;
+padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:38 -->
+<!-- BEGIN: QUESTION -62821:40 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:5' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>5.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that prevents the use of any tables in the database from one transaction while another
+transaction is being processed is called a <br></span></div><div style='font-size:2pt'></div><table
+cellpadding='0' cellspacing='0' width='83%' border='0'><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>a.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>database-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>b.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>table-level
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>c.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>page-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>d.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>row-level
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>e.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>field-level lock.</span></div></td></tr><tr height='0'
+style='border:none'><td width='5%' style='width:18pt; padding:0'></td><td width='95%'
+style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:40 -->
+<!-- BEGIN: QUESTION -62821:41 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:6' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>6.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that locks the entire table preventing access to any row by a transaction while another
+transaction is using the table is referred to as a<br></span></div><div
+style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%' border='0'><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>database-level
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>table-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>page-level
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>row-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>field-level
+lock.</span></div></td></tr><tr height='0' style='border:none'><td width='5%' style='width:18pt;
+padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:41 -->
+<!-- BEGIN: QUESTION -62821:42 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:7' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>7.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that locks the entire diskpage is referred to as a<br></span></div><div
+style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%' border='0'><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>transaction-level lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>table-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>page-level
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>row-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>field-level
+lock.</span></div></td></tr><tr height='0' style='border:none'><td width='5%' style='width:18pt;
+padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:42 -->
+<!-- BEGIN: QUESTION -62821:43 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:8' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>8.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that allows concurrent transactions to access different rows of the same table is known as
+a<br></span></div><div style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%'
+border='0'><tr valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>database-level
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>table-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>page-level
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>row-level lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>field-level
+lock.</span></div></td></tr><tr height='0' style='border:none'><td width='5%' style='width:18pt;
+padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:43 -->
+<!-- BEGIN: QUESTION -62821:45 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:9' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>9.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that has only two stages (0 &amp; 1) is known as a(n)<br></span></div><div
+style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%' border='0'><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>shared
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>exclusive lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>binary
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>two-phase locking.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>deadlocks.</span></div></td></tr><tr height='0' style='border:none'><td width='5%'
+style='width:18pt; padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:45 -->
+<!-- BEGIN: QUESTION -62821:46 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:10' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>10.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that specifically reserves access for the transaction that locked the object is known as
+a(n)<br></span></div><div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'> </span></div><div style='font-size:2pt'></div><table cellpadding='0' cellspacing='0'
+width='83%' border='0'><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>shared
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>exclusive lo.ck</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>binary
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>two-phase lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>deadlocks.</span></div></td></tr><tr height='0' style='border:none'><td width='5%'
+style='width:18pt; padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:46 -->
+<!-- BEGIN: QUESTION -62821:47 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:11' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>11.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that exists when concurrent transactions are granted read access on the basis of a common lock
+is known as a(n)<br></span></div><div style='font-size:2pt'></div><table cellpadding='0'
+cellspacing='0' width='83%' border='0'><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>a.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>shared lock</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>b.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>exclusive
+lock</span></div></td></tr><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>binary
+lock</span></div></td></tr><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>d.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>two-phase
+lock</span></div></td></tr><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>deadlock</span></div></td></tr><tr height='0' style='border:none'><td width='5%'
+style='width:18pt; padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:47 -->
+<!-- BEGIN: QUESTION -62821:48 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:12' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>12.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+lock that defines how transactions acquire and relinquish locks is known as a(n)<br></span></div><div
+style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%' border='0'><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>shared
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>exclusive lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>binary
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>two-phase lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>deadlocks.</span></div></td></tr><tr height='0' style='border:none'><td width='5%'
+style='width:18pt; padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:48 -->
+<!-- BEGIN: QUESTION -62821:49 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:13' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>13.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>A
+condition that occurs when two transactions wait for each other to unlock data is known as
+a(n)<br></span></div><div style='font-size:2pt'></div><table cellpadding='0' cellspacing='0'
+width='83%' border='0'><tr valign='baseline'><td><div><span style='font-family:"Times New Roman",
+"Times", serif; font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>shared
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>exclusive lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>c.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>binary
+lock.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>two-phase lock.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>deadlocks.</span></div></td></tr><tr height='0' style='border:none'><td width='5%'
+style='width:18pt; padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:49 -->
+<!-- BEGIN: QUESTION -62821:50 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:14' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>14.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>The
+two-phase locking protocol is governed by the following rules<br></span></div><div
+style='font-size:2pt'></div><table cellpadding='0' cellspacing='0' width='83%' border='0'><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>a.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>two transactions
+can have conflicting locks.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>b.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>no unlock operation can precede a lock operation in a different
+transaction.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>c.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>no data are affected until all locks are
+released.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>d.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>all of the above</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>e.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>none of the
+above</span></div></td></tr><tr height='0' style='border:none'><td width='5%' style='width:18pt;
+padding:0'></td><td width='95%' style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:50 -->
+<!-- BEGIN: QUESTION -62821:51 -->
+<tr valign='baseline'>
+	<td>
+		<select name='MC:15' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>15.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>The
+techniques to control deadlocks are<br></span></div><div style='font-size:2pt'></div><table
+cellpadding='0' cellspacing='0' width='83%' border='0'><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>a.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>deadlock prevention.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>b.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>deadlock
+detection.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>c.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>deadlock avoidance.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>d.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>all of the
+above.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>e.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>none of the above.</span></div></td></tr><tr height='0'
+style='border:none'><td width='5%' style='width:18pt; padding:0'></td><td width='95%'
+style='width:405pt; padding:0'></td></tr></table>
+<div class='spacer'>&nbsp;</div>
+	</td>
+</tr>
+<!-- END: QUESTION -62821:51 -->
+<!-- BEGIN: QUESTION -62821:52 -->
+<tr valign='baseline'>
+	<td height="283">
+		<select name='MC:16' align='top'>
+			<option value=' '> 
+			<option value='A'>A
+			<option value='B'>B
+			<option value='C'>C
+			<option value='D'>D
+			<option value='E'>E
+		</select>
+	</td>
+	<td>
+		<p class='qnumber'>16.&nbsp;</p>
+	</td>
+	<td width='100%'>
+<div><span style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>The
+levels of backup are<br></span></div><div style='font-size:2pt'></div><table cellpadding='0'
+cellspacing='0' width='83%' border='0'><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>a.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>full.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>b.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>differential.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>c.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>transaction log.</span></div></td></tr><tr
+valign='baseline'><td><div><span style='font-family:"Times New Roman", "Times", serif;
+font-size:12pt; color:#000000'>d.</span></div></td><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt; color:#000000'>all of the
+above.</span></div></td></tr><tr valign='baseline'><td><div><span
+style='font-family:"Times New Roman", "Times", serif; font-size:12pt;
+color:#000000'>e.</span></div></td><td><div><span style='font-family:"Times New Roman", "Times",
+serif; font-size:12pt; color:#000000'>none of the above.</span></div></td></tr><tr height='0'
+style='border:none'><td width='5%' style='width:18pt; padding:0'></td><td width='95%'
+style='width:405pt; padding:0'></td></tr></table></td>
+</tr>
+<!-- END: QUESTION -62821:52 -->
+<!-- BEGIN: QUESTION -62824:36 -->
+<tr valign='baseline'>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td width='100%'>&nbsp;</td>
+</tr>
+
+<tr valign='baseline'>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td width='100%'>&nbsp;</td>
+</tr>
+<!-- END: QUESTION 0:3 -->
+</table>
+<br clear='all'>
+<TABLE ALIGN='LEFT' WIDTH='100%' CELLPADDING='0' CELLSPACING='0' BORDER='0'>
+  <TR>
+    <TD COLSPAN='2' BGCOLOR='#000000'>
+    <DIV STYLE='font-size:1pt'>&nbsp;</DIV>
+    </TD>
+</TR>
+<TR>
+    <TD>
+	<a href='javascript:alert("Use the mouse to submit.")'
+	   onMouseOver='window.status = "Check Your Work"; return true'
+	   onMouseOut='window.status = ""; return true'
+	   onFocus='window.status = "Check Your Work"; return true'
+	   onBlur='window.status = ""; return true'
+	   onClick="return(GradeIt(document.forms[0]))">
+	     <img src='index_files/chkwork.gif' BORDER=0 alt='Check Your Work'></a>
+	&nbsp;&nbsp;&nbsp;
+	<a href='javascript:document.forms[0].reset()'>
+	   <img src='index_files/reset.gif' BORDER=0 alt='Reset'></a>
+    </TD>
+    <TD ALIGN='RIGHT'>
+	<A HREF='http://www.examview.com/studytip.html'>
+	    <IMG SRC='index_files/help.gif' BORDER=0 ALT='Help'></A>
+    </TD>
+</TR>
+</TABLE>
+ 
+</form>
+</body>
+</html>
